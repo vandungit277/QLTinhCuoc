@@ -32765,3 +32765,206 @@
 ]
 "admin"
 
+11/3/2018 9:08:13 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":null}
+
+11/3/2018 9:09:37 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":null}
+
+11/3/2018 9:10:52 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":null}
+
+11/3/2018 9:15:09 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"admin","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 9:15:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 9:16:24 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":"0mljl+OrcPRafa2GdoV5R92r5qusO8BtAg66/oR2fLo="}
+
+11/3/2018 9:18:17 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"1","Password":"a4ayc/80/OGda4BO/1o/V0etpOqiLx1JwB5S3beHW0s="}
+
+11/3/2018 9:18:25 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 9:18:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/3/2018 9:18:36 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"admin","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 9:18:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+

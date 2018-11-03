@@ -120,3 +120,23 @@ Parameter name: s
    at QLTinhCuoc.Models.EncryptPW.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 17
    at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
 
+11/3/2018 9:08:13 PM: /Login/CallLogin
+Object reference not set to an instance of an object. ; System.NullReferenceException: Object reference not set to an instance of an object.
+   at QL_Model.SqlHelper.CheckStringNull(Object readerValue) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\SqlHelper.cs:line 108
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 9:09:37 PM: /Login/CallLogin
+Object reference not set to an instance of an object. ; System.NullReferenceException: Object reference not set to an instance of an object.
+   at QL_Model.SqlHelper.CheckStringNull(Object readerValue) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\SqlHelper.cs:line 108
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 9:10:52 PM: /Login/CallLogin
+Object reference not set to an instance of an object. ; System.NullReferenceException: Object reference not set to an instance of an object.
+   at QL_Model.SqlHelper.CheckStringNull(Object readerValue) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\SqlHelper.cs:line 108
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 9:16:24 PM: /Login/CallLogin
+Object reference not set to an instance of an object. ; System.NullReferenceException: Object reference not set to an instance of an object.
+   at QL_Model.SqlHelper.CheckStringNull(Object readerValue) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\SqlHelper.cs:line 108
+   at QLTinhCuoc.Models.LoginDAL.GetMenuRoot(Login lnLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\LoginDAL.cs:line 19
+

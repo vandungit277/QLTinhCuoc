@@ -12,6 +12,15 @@ $("#idLogin").click(function () {
     var username = $("#username").val();
 
     var password = $("#password").val();
+    if (username == "") {
+        alert("Vui lòng nhập UserName");
+        return;
+    }
+    if (password == "") {
+        alert("Vui lòng nhập Password");
+        return;
+    }
+
     var data = { "username": username, "password": password };
     window.$.ajax({
         type: "POST",

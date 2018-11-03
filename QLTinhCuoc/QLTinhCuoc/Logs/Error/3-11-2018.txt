@@ -1,0 +1,22 @@
+11/3/2018 3:41:55 PM: /home/menuroot
+Column 'MenuID' does not belong to table Table. ; System.ArgumentException: Column 'MenuID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Models.HomeDAL.<GetMenuRoot>b__3(DataRow dtr) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\HomeDAL.cs:line 44
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at QLTinhCuoc.Models.HomeDAL.GetMenuRoot(String username) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\HomeDAL.cs:line 43
+
+11/3/2018 3:58:53 PM: /home/menuroot
+Column 'MenuID' does not belong to table Table. ; System.ArgumentException: Column 'MenuID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Models.HomeDAL.GetMenuRoot(String username) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\HomeDAL.cs:line 54
+
+11/3/2018 3:58:58 PM: /home/menuroot
+Column 'MenuID' does not belong to table Table. ; System.ArgumentException: Column 'MenuID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Models.HomeDAL.GetMenuRoot(String username) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\HomeDAL.cs:line 54
+

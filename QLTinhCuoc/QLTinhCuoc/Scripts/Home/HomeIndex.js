@@ -1,7 +1,11 @@
 ﻿$(document).ready(function () {
-    var a = $.cookie("username");
-    if (a != 'dungdv214') {
-        CallMenu('admin');
+    var username = $.cookie("username");
+    var isLogin = $.cookie("isLogin");
+    if (isLogin == "true" && username != "") {
+        CallMenu(username);
+    } else {
+         location.href = location.href = location.origin + '/' + "Login";
+        //console.log(isLogin+username);
     }
   
 });
@@ -42,3 +46,9 @@ function CallMenu(username) {
     });
 
 }
+
+$("#idlogout").click(function () {
+    $.removeCookie("username");
+    $.removeCookie("isLogin");
+    location.href = location.href = location.origin + '/' + "Login";
+});

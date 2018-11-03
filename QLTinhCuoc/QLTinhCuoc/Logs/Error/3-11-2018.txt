@@ -20,3 +20,103 @@ Column 'MenuID' does not belong to table Table. ; System.ArgumentException: Colu
    at System.Data.DataRow.get_Item(String columnName)
    at QLTinhCuoc.Models.HomeDAL.GetMenuRoot(String username) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\HomeDAL.cs:line 54
 
+11/3/2018 6:48:50 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:48:53 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:48:56 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:49:12 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:49:22 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:49:30 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 6:49:32 PM: /Login/Decrypt
+Salt is not at least eight bytes. ; System.ArgumentException: Salt is not at least eight bytes.
+   at System.Security.Cryptography.Rfc2898DeriveBytes.set_Salt(Byte[] value)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(Byte[] password, Byte[] salt, Int32 iterations)
+   at System.Security.Cryptography.Rfc2898DeriveBytes..ctor(String password, Byte[] salt, Int32 iterations)
+   at QLTinhCuoc.Models.EncryptPW.Decrypt(String cipherText, String passPhrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 71
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.Decrypt(String Username, String Password) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 45
+
+11/3/2018 8:04:39 PM: /Login/CallLogin
+Column 'MenuRootID' does not belong to table Table. ; System.ArgumentException: Column 'MenuRootID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Models.LoginDAL.GetMenuRoot(Login lnLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\LoginDAL.cs:line 31
+
+11/3/2018 8:05:11 PM: /Login/CallLogin
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QLTinhCuoc.Models.EncryptPW.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 17
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 8:05:13 PM: /Login/CallLogin
+Column 'MenuRootID' does not belong to table Table. ; System.ArgumentException: Column 'MenuRootID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Models.LoginDAL.GetMenuRoot(Login lnLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\LoginDAL.cs:line 31
+
+11/3/2018 8:08:31 PM: /Login/CallLogin
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QLTinhCuoc.Models.EncryptPW.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 17
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 8:23:30 PM: /Login/CallLogin
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QLTinhCuoc.Models.EncryptPW.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 17
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+
+11/3/2018 8:23:35 PM: /Login/CallLogin
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QLTinhCuoc.Models.EncryptPW.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Models\EncryptPW.cs:line 17
+   at QLTinhCuoc.Areas.Login.Controllers.LoginController.CallLogin(Login lniLogin) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Controllers\LoginController.cs:line 27
+

@@ -29906,3 +29906,2862 @@
 ]
 "admin"
 
+11/3/2018 6:21:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:22:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:22:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:24:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:24:32 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:25:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 6:44:42 PM: /Login/Encrypt
+"A9IGp9mqVT2qWcLo4+X9kv/tr4vhN9nhOFhssDltuaPhA79A5t8iuIOlAxB/BYUU69SOR37xf3m8QJsvwJPK03clDQ3bXaHAolFmlVDqoDa18sqE5W27nDcQj9i2ZWlG"
+"dungdv24"
+
+11/3/2018 6:44:44 PM: /Login/Encrypt
+"KjX9Flymm3BaV/GgXdbL1YVV4Uw7dgRg47lgDaVGTPy30J431L9Zk9h1fuvBgGizlSFJcnfqo0D+eQ96a6y2mPXDVZwJAnMQ5L/n1gteOwYZOJTltQ/rhcxJQz3ckSsB"
+"dungdv24"
+
+11/3/2018 6:44:46 PM: /Login/Encrypt
+"hADC7zLoNkRGWQ9dkq/ykBuiEU6XW/aHTujjMOwIlzPwPzF/u+WPe1AVhG95WBZ6I1XyZSlEjeo2DmGMMAPGHr+ED25K1CV/NfiCmN9fgXhVPhh3Aj1iIn7POn1WTN9h"
+"dungdv24"
+
+11/3/2018 6:44:46 PM: /Login/Encrypt
+"NU21XBsL14OqnbZQFG/AlQkuCPCK7npWoHccPQUzvurs1t0pSxt+wDOESu4GCh/6gGwTY+4nA1QoUUc2kpJUnWxNIBc3bFRCLFmvvehcV/NZs8QO7JLUvudc5XLe4uLA"
+"dungdv24"
+
+11/3/2018 6:44:47 PM: /Login/Encrypt
+"jGU/BvC1iHaiBmQSnaAxS/0WyNt1gSvRnL+vO4WJht0HOWdeo9Zh57SCuYceiwW7RtIK0TXESuipOlLYbJKdTSAaVAEY65frZxKwaA8ZLczex+Qebg9KNyUIPtl5XzuD"
+"dungdv24"
+
+11/3/2018 6:44:48 PM: /Login/Encrypt
+"GZzSYDXiaqBnrMW1HYDNYiMHI8nn1GzYqxFIr7puEGvnmiDj+0C3vlpiAlrnQsI4uITJ8nqrFfTCeAIF1BnPdFUpEpiHYcOmWR5fKOMl0+xv1YHqgE6/kllF7znMa6sP"
+"dungdv24"
+
+11/3/2018 6:44:49 PM: /Login/Encrypt
+"FREdL7pWY8HgR1BcXwITADw5OpNa/xKP9fbMlX/JBjBofNZ2dgiOtc73pd6LvIgAnaMABzXdHBk4pC67Fem2AFE9waqzhA/DgKvtY4bS3BLV4lPDFuDeMPmCoRzj0c/x"
+"dungdv24"
+
+11/3/2018 6:44:50 PM: /Login/Encrypt
+"30m5srIBso6bjdl2I7lRHLyXRCrgLSp5ZNz6XpFInh3A30fzWKQTgcvoSV6JxZNDtsveCgbAXA3kfAA9yzWFUuhgho1DlVJDx1f1MlF2yjcjNFLOTg7vO+9L7ctsAJN2"
+"dungdv24"
+
+11/3/2018 6:44:51 PM: /Login/Encrypt
+"jTWeeA/AbUBGuRr2FC9cW730IVnyljsniJfSMhyq/8mswu3U4t1rxgLnTe54LcW3y3piE22CgL+kMvqzuX/mGWdceBzAtVyGPKMB4/uWqXTPDSfIZM2k3nOpCgJw6W7E"
+"dungdv24"
+
+11/3/2018 6:44:52 PM: /Login/Encrypt
+"zjttMFkqG58ifHgM5LyKGHAIux5xNFexOTTYfZ4+4wICVxL1jdO6jpZJLgvVDgxuBFVgy6smJFaIHtKFOPgpqoYidmGGHzvuRrsCLPx/nZlDd4xJ2iIqGs1HH/86PjfM"
+"dungdv24"
+
+11/3/2018 6:44:52 PM: /Login/Encrypt
+"LZwezyImpyHtWKA8mTSFf5INsAvXLBxPB9W8IrdA4MUT7J9PpUfL9aZ8MQazDWoM5GkCZUhdPvwsSZPm6HlHp71fBbtKQLpb+5Q/sRyNsgqJpn/NOrA8kk8SsE+MYqqp"
+"dungdv24"
+
+11/3/2018 6:44:53 PM: /Login/Encrypt
+"cZGDn6fC0MP6m4mNbxfVbQDePGBzbr9ljx37DTfdzWdGnoqi99YEag7vBXH8fl/pGQKspOKFNprkWjWG/cMZejAWi7PVHO+RYjDwmxo1hNQ9oHRFfEw5VMcKBNqI+CQR"
+"dungdv24"
+
+11/3/2018 6:44:53 PM: /Login/Encrypt
+"df+7bI7EWLJxT5Qmlhfpho5dcvpW61eKyVzrX7uZ73OYrXr/rhE8Bt2+uep/wol24AFCnrzq8sygFEEsTZCa5CJimZqfnHFcJIirUW0QDsU1qid3WVpKyoeibsL9+ywS"
+"dungdv24"
+
+11/3/2018 6:44:54 PM: /Login/Encrypt
+"+eBMM+ls0IKf1nSMOHaxTk+mDwWh8rhW5lVZAHZXjpFhKMY4eD31e93CzftZA1R3Rf4l4KBG6iJUFz4AN+Wi4LkRUFMiUDUfIRi+uHxpjjCrKeBaLspnhtQEhp6uCbQa"
+"dungdv24"
+
+11/3/2018 6:44:54 PM: /Login/Encrypt
+"X6ysMVoafTeomgjK0QKxD2tjm4bcjeYEb7gwKClSYvexn5hZOYH0EVnDkajjszqWwI3yHx7R1YB0unAra5XChxs7Mv51qrfy7hJkFIEzg+Jefty5ioIGvAioi1CbMYLb"
+"dungdv24"
+
+11/3/2018 6:44:55 PM: /Login/Encrypt
+"wo0/TWuegwoMzpW9SkuOlIQKoo6YqAAwB8G2FW6fogVzBNbiBER87Esg5PKy7tPs2uAZCsu9DvjKLICJZz2jcE+XpCln0LBctEnv3uWcSQY9m3aOYSPu6+KIj6eTt5Af"
+"dungdv24"
+
+11/3/2018 6:44:55 PM: /Login/Encrypt
+"IqXIAiULnYZL7omMKYW/VdV+J35GLtYgCfHn1yhVtXXdAS+fJnuPIbM1iMpXfx69kLYYxs63YMqbyyi1ZZP0udQlGpfpX640QoZvSa02JXpzUoi6oatE1cFn1gWPjDrL"
+"dungdv24"
+
+11/3/2018 6:44:56 PM: /Login/Encrypt
+"Cv44McQEU3HtcCJcXmYgbCMqANfyALp2ldygq6rESFwEHwmJ926Kn0Pf5JZq9wLMbX9lnV2c2a6tEm5pu5YdbcHCZIZx8F17jX76c5VI64f+YHVb9viSgmkAcouCpPuc"
+"dungdv24"
+
+11/3/2018 6:44:56 PM: /Login/Encrypt
+"zBOM5kz8uNQigjanudX1YDncV7MPUp+r3lxHyM2lxw6r+As4EJtw4QLe8RiPDx2Dvs16xD47e+WPqdCxJOKApGjY2NyQ3LuuOQTTF4RbM1mTeiEbinUcpLW/3s99RtTp"
+"dungdv24"
+
+11/3/2018 6:44:57 PM: /Login/Encrypt
+"oLRd6d4eKv51kYjRi1qBhJueuGKb4akzoc+dznVbRcaZ1kFVb4xYwxnnx1WdVO252aPI4x6zE6or/ltia3I14/Hh/s7ww3SmB12pDOh7C4zlvx743oBsB+cP6O9WhvbA"
+"dungdv24"
+
+11/3/2018 6:44:57 PM: /Login/Encrypt
+"lQneNwSAhgWPqp5PEZVSMz49Z3MCVYE/0uD8Po00Jy07wZ4OUUlZiB63OUZHipT3/aKSBBckEQuFQzxWQyyWqYxFnBhcDZTSCas0ptf/vI8CkXOJJuRwc1SgpvxGVb0k"
+"dungdv24"
+
+11/3/2018 6:44:57 PM: /Login/Encrypt
+"9xNzvyIOpJSnZj96TMMUcrU3ovidfwqDOh7ECbrJ4oah8pgIQD1GaAgIZJAj1J2GOBPtMScy1EoNnEarOU5gORe3mBe1vWPQGaR+sSjV9aMkeWGjXPZ/uE4Xu5CbzA/k"
+"dungdv24"
+
+11/3/2018 6:44:58 PM: /Login/Encrypt
+"D5QFKJWTEdNshfYjk6yTNGWbmlLWSiPk0yRUc/07S0imfSvmvFJ2eGMpswssGf+Ord8U0QdD4JiSU4umZyB97a2gcqpTiOUn5DyvzpE9o/ShVLyvdQOYxE6GFWMUffcT"
+"dungdv24"
+
+11/3/2018 6:44:58 PM: /Login/Encrypt
+"RmqwrSOBx+TZGLGCGWoau1iNQ5llRGsH5fhibvOrLlMQ3T5xtvTVJT4nzzWQoQnl2GwEANecwLaMPhRX6xu/U6hSxW6kn47RQzhNu3r2yB61vcAB0M4yyfne91bhJuvx"
+"dungdv24"
+
+11/3/2018 6:44:59 PM: /Login/Encrypt
+"BAjGsxlbS0DZE/qH3P9FQvoiFxX44H31vFIOpSNt/poWqj8DoUwsonDJdfYa5jjKVtEo4yzrUnxnkyLbcnFcyfTdm72Yu85df7QIixnSulB0Qy1zpCPqyQpYy9fDedc1"
+"dungdv24"
+
+11/3/2018 6:44:59 PM: /Login/Encrypt
+"ToePSofMAI7akg7qx1YSLlGj67hIBo5ZpvdigLUhD5ZdX48SZPDicjas7PXwOo2ezuGzIVio+mkhv5tJqcBH6fQww9r/z6izUmUij89YN8vNsVweZuADboL8TGpTPUWW"
+"dungdv24"
+
+11/3/2018 6:45:00 PM: /Login/Encrypt
+"UKb8vHdd/hyegB9SwVp1I8UR3MgaiBtJ+DgZoYCw0I5jJ/ePf0CqUtwDag6WerOB1uhu7/1WthJHBm9jmqLylG8mJSxAQ6kqB0POrtNos7c8P2tQSJITrzk6W8fL5vID"
+"dungdv24"
+
+11/3/2018 6:45:00 PM: /Login/Encrypt
+"CPYMdQO45ZA2CbeerPmaouIiPrx1eejwef+D8UYuFmJjk4zyl4xdXqSYqZDptTGH0NLIB/DLE6S/pe6y1XkgQNucb6TNO1b0IieiCvHx6TtRtL+KtjWq2gfmUEk4+p2K"
+"dungdv24"
+
+11/3/2018 6:45:01 PM: /Login/Encrypt
+"4gh62hgX1zzhQ/ueNTijtydS2CX3L1yXhbRECNoP/uy6SF/PCfY+fqckHs0P36WrU36X5h3qsM/T9IDekpTI/WTXZpcNELwNDKDNdV+XYRTo8kdDp9A0Uuo7499na07/"
+"dungdv24"
+
+11/3/2018 6:45:01 PM: /Login/Encrypt
+"qJHlmy5Wk+4cqwNjVyZdOWnREUeVd6fKtGGWXMlw2CkBBjLkantvFVWyzaS9CN9/d80wOBjjojOI95dKWMw2EtrCq/Os9BLdFnq8DRGXbKNZFcuJSlNRuprji2ClusIz"
+"dungdv24"
+
+11/3/2018 6:45:02 PM: /Login/Encrypt
+"ftuemP2QIgx6TH7+nB8Ea/5b5UXk2Wk71kpcHdONuyFZSAjBsT1xDj7qh7l2muicuIGI8wK7VF3BqZNfhqg11LOZuXY/dho0QRn47/69FEL42VAQbOdtFMLMF7gtGBtF"
+"dungdv24"
+
+11/3/2018 6:45:03 PM: /Login/Encrypt
+"GE26ZwfGnokksdtTR9o+LfrIddnoK7/wKKyJ3AZxekhT2N2Rnj/wk+1kTaimF/KrhhljoJy3F2YhSR7Eyw3ZDGG3JLaSNw9Zhpf2WPqdepA5hG5p/mZJiv667v4kz/pW"
+"dungdv24"
+
+11/3/2018 6:45:03 PM: /Login/Encrypt
+"5MQ1kO9aaauFUgIrbvHL/36POb0Azv7u9yN9SEOyJKtvRJkcOf5myRRnLwmcVxYZNQU7DMOFQXsKs0AlTcbY65O0ZQhzrqA8vY84QpJqk3gsl1MOCwHsHeY7Uqi7XR5z"
+"dungdv24"
+
+11/3/2018 6:45:03 PM: /Login/Encrypt
+"Bve1RFqG7TLBgu4CfuObhgacVRrNrW053orwibbFM/mdiFUpQJDdVNgVnxn+sz6Ct0mZK7Os6a+HBPbmal2iVGCk7WIhYnw80+zjQAcHkR20L07wUDmxNNCoOQxGT96A"
+"dungdv24"
+
+11/3/2018 6:45:04 PM: /Login/Encrypt
+"QypreoNhlERMPpf7iiTi5+TONUxIfwoJbIMTfkmiRpyk91Jv9NsK3rSlUyGApgWcfnxuGSCqQV741gAX0Vck0BZe3UfaLwg1ws0srJlnkNPco/2cqvya6gtvUwIo2VnI"
+"dungdv24"
+
+11/3/2018 6:45:04 PM: /Login/Encrypt
+"5vTguqa6+LTwza8gTs+g7gfrVluwdK5rqrkRQqsKcygEf26B9H1SqJWhbB821NCAKqaEBd5Hj6Eat10wHzXYfous+Vz1AWHha73da1HxgtLHDLxFRwE5YP3Jj7Y/G9Gw"
+"dungdv24"
+
+11/3/2018 6:45:05 PM: /Login/Encrypt
+"Qqkl1BsWO0DDBMrO9G75AcYfK/JmsUEk2jI4KMd/6vW127mKWKlggAdflkxg7wI027RKUs7Ij/uYGPTAMmmFnZVbfWYWZHqa0KQ9FlAw/fDmUF0qa3uDIjmhh22O4nLQ"
+"dungdv24"
+
+11/3/2018 6:45:05 PM: /Login/Encrypt
+"P7elgkoGfmkHOLnM22BcbfwSsiZJAtA7sdqGojuVmERRJIZKyHT3k3vRx346xyahbADW872mWcNI/huUQP4P0Vn3PjESv8bejW6SlsZjivSfmVNOiV1jbAA8mQRWs6uB"
+"dungdv24"
+
+11/3/2018 6:45:06 PM: /Login/Encrypt
+"GeALwnHxKY48DkOXi9qUJD3ehrhynrNl9ffMcMNkm2sEO7LjYN9V0GKc5gaTGWVqqXTCqu08xcHuh30k3uiiMnGL9wXDCNU3tcepLooDdYvstmkv1xsUVUIVxMTunqwp"
+"dungdv24"
+
+11/3/2018 6:45:06 PM: /Login/Encrypt
+"9UVUKHBMXXq81R8Lt8PMhtOO0SXi6JjxlY1vSojITxIcTamdyZ5JDc4M6Aodq5aOoX3AxdIXYP0aMgBO1x651OAxtAkNhNBVscP0YosEeB3dy7Zhd33JM421vivdfIAV"
+"dungdv24"
+
+11/3/2018 6:45:07 PM: /Login/Encrypt
+"90cmkI6l3rxKrJ2QwseRbCgYNHUIcJnjYYw4nG3eH863rxNPFaLCS28As5e+FDNL086fbNyQK0+5XgXMgVdtMs30sim7vRwhawU4Zd41XYDMfDNrtYl362VD0T4AZOau"
+"dungdv24"
+
+11/3/2018 6:45:07 PM: /Login/Encrypt
+"U0H9S2qyfUTVb1U/vr4jmNQ3nUork7Nk6s6pW/VC/AK7JAFbXPAJ6UTVvQ+hG/6qCjl1emkLmP0Ph1b44hm5NTi67lXx2RPjq6ceFazp/wuAZypZa5o0F1FHh8sBlzN1"
+"dungdv24"
+
+11/3/2018 6:45:08 PM: /Login/Encrypt
+"wAgbgYkay/XRMnR69+aBIKW5qWe/w79LTmgyIsTQ8WYhV9Wp4lCW48ZTLHZzKS09ZU5TnYJP8aZjrnCYtNBwcrNne7mwo2eVA3LfJbEuEwScbz6HNTttyRy7fpRZUXXD"
+"dungdv24"
+
+11/3/2018 6:45:08 PM: /Login/Encrypt
+"oLVRbfw7n13rjr8ORNkS7dTJBP+l5bw7gCoStKXueOwyZw1PB8MA1fVvAejoon0h3YHzVxr0xVx6bwMP1UQvKPCFeDDhFTDiOcIfGH4wQiPTvboUEIRbPqlsTHNkEbKO"
+"dungdv24"
+
+11/3/2018 6:45:09 PM: /Login/Encrypt
+"mVcz4ryjj3rWBnbmtakn0m6wqHXlJ28L9YhtJSdXIVrsc14fl7dDroxAvydLfjOxGR/7Fz4Nh7CGz1GBzeW/bezfQ9Nemg1W3Uj1vvyv6r9GCJ0U9elPiyo7d/6Lm1Wj"
+"dungdv24"
+
+11/3/2018 6:45:09 PM: /Login/Encrypt
+"aKdRGMlMC1fkQYa/f89CA3gmyWYlQZy7VjDcUQHr07op2KHRwkQ61TDIwuUEHyNP7cK+t3pebcaNvKWrqZHCJZrBkHu6DitU/Exi7NrlCdhLve2sOoHUxbQ7cAmTHunC"
+"dungdv24"
+
+11/3/2018 6:45:10 PM: /Login/Encrypt
+"hegZAOqxfofLZ5HB9eWp4XA8ibNwvOAv6UjJX1IRy+8HCrtv7ysQiahRfZVZY/OB/AaqRcu0C1+uklx3bA174Rvn9nCHeeTf6t/qkxg2EDZoR39kwjvXnDwB2XloO5ux"
+"dungdv24"
+
+11/3/2018 6:45:10 PM: /Login/Encrypt
+"JYnpOCzjDNjsZRbo1zV8BZ3Xpgaut5lSTTnOqFB7yyMEXJ9hHRmwoQMv5XUxxlpgl0O3O+Tgk6G545uzPpZSCA0eJ+dDLSjsCclm9n0VcVWAfIWaVfMCQ+t2Cbxws+4u"
+"dungdv24"
+
+11/3/2018 6:45:11 PM: /Login/Encrypt
+"R+rgo61r7YpuMYlRseRtrU7oZIUsq6z9zgYCOUutM/zUh2RwuqXVUm9/ggujgvwTAoxY+VQhiQ+MXJnNXrd4G5Mdhozv+GXFyEyH8O2+3KNftupPDpIBEXQT7OwKgMCQ"
+"dungdv24"
+
+11/3/2018 6:45:12 PM: /Login/Encrypt
+"hHA/o9XXJ3Ufdk2A3Dq2xBFpfi07dazY8lDTFUC8it53k996kp4/ImG2wP8/DonJt6FGFq/CmYv2sFcNqdfLpfYvxSa2jPgePvNCuHAHO7yIqLfhF4vg0i/+qzUijUa5"
+"dungdv24"
+
+11/3/2018 6:45:12 PM: /Login/Encrypt
+"gieCKzr0lu/BJhA0vXBleHybfk6dFBsVf+foAWKB7GXH5nJ9TnUtrdB+/TqLGUxOKRG81XJhT4QGHPnblz2CJvgbvAn/VgDOffEsNCyuW536NHE0BnhRCkLIvFTXLE/s"
+"dungdv24"
+
+11/3/2018 6:45:12 PM: /Login/Encrypt
+"9r4l/hqdwkOAhlLMdsdMk3KuH4Lkx+xmC/wcuGkEkZhglJlcmi3RCNJYe4sHj+usar9tYWuF3F3sstamg+3MuC3EgSW886Vz9STznR4F9SYuZ++BYYZ5jEjJVicIo3Zm"
+"dungdv24"
+
+11/3/2018 6:45:13 PM: /Login/Encrypt
+"OdUMixMYPTucX5KniDPUdaAOcrkTgk3ousNsPkGnmlDBZ/9lYifdyaTnffhtXwRsaLpcq4cGQmu4AFEWjVXaFZMNPcFilMsJw0TvwzH9bGczqqBxcdYjB+ZqRRvFdsw2"
+"dungdv24"
+
+11/3/2018 6:45:13 PM: /Login/Encrypt
+"b9/VTMn1oA34dwEdTyai9zj+0tUZoJVVmpTZ7zZDSPTqFREeMnVMI7HZSykronG72Ic0sQ2m6mu2fMxsz6Qj/vbJrXho3aFv0ZHdipbytlHesvl8WaHpz2sRZE2NLptF"
+"dungdv24"
+
+11/3/2018 6:45:13 PM: /Login/Encrypt
+"7gVTa8KjGEq2e4tiKWIt8QmwH+wfl+afeRgsOMMTcszflnHjflOpf3lFd24cbp62f3khbUSVinNv/KQJw5+4kHB87qWUbBEvy+8bz2SexLszRNmegxYeQc2XgS3juGLw"
+"dungdv24"
+
+11/3/2018 6:45:14 PM: /Login/Encrypt
+"VSVmishWGexrGNnVIOTzWELP5H58qC9yxKmBJ68g0rgZycGp0eLmJc/MhrNE+Q9g9uv4/gI5NH1IPxzCLv2KRMymA/lefNn+Ei5HfLRto/YdwiHJyanVSpSfT38V7ESq"
+"dungdv24"
+
+11/3/2018 6:45:14 PM: /Login/Encrypt
+"H1mr9b4CLN287EJrII9kXI3f7MoMjDMhr8GCMB7EjRJKHCqPMxUf2rDbC3bIC5VgtZO1f+lBixPgyPxCZhPwtUtSCLxIJYwAtLPurZwv2lpAkuOv5GvgFKVS/bH/FcuC"
+"dungdv24"
+
+11/3/2018 6:45:14 PM: /Login/Encrypt
+"cRq5E/ydrlpLb6hp6wOC8VQl66So0XccPIYYmBVDXzYCGE50J13gDwscms522uYhpi1pO/Jm3vCFdl91YY1nEzRZ0TTLL/BGORFt/2r0A+3Chi/y9PtFHDV1oDHbvUhB"
+"dungdv24"
+
+11/3/2018 6:45:15 PM: /Login/Encrypt
+"V29CngHktQS5qV328csMNIRs6IYZqWAX+jzNs9MjTWBnhEZ1GzASimMoPafCpP41VenyYo/lPNByTZm+InGiixqLE+JA3FEG2Oh85dfmxcuM29aIgIobWDqJ2ABT3tf8"
+"dungdv24"
+
+11/3/2018 6:45:15 PM: /Login/Encrypt
+"ub9R1+pOWU4X/CfKSLpLg5AXtEqZilWSP4qlaQFxnknjnrZoDL6IBVqn3manOtE0RslqHtuliQfMm46iuo9KVZycZsVb1LeOnlzNm3L1wS5AOcI1EotvMs16kvFTcu1d"
+"dungdv24"
+
+11/3/2018 6:45:15 PM: /Login/Encrypt
+"hZ2qggjkqeNkvVekqYoRR9Dar3nMT92QyVi6afBzzVBXbW5w74Ooj7TLoiJfyzFmUdocZqLbEOZs1KrGZoPVWNtgiyBcr5iaPp+aD3xZVBBr376WgF/DsDWkF1QpItlW"
+"dungdv24"
+
+11/3/2018 6:45:16 PM: /Login/Encrypt
+"WmpzbVk5ma4lmhzEw9/8FccQZogJY8JStqTuxdGEDl+vaeiDtziV7RAieEbuIEZXbk+TRahRJpfFCLVM/SUvsicla/82214Wn+cb4Dac8hPBqoKJlyI3N0aMFSBKaQsT"
+"dungdv24"
+
+11/3/2018 6:45:16 PM: /Login/Encrypt
+"GdQQ3EvMVn4yxI2qThCkYCesUjLrTit7+l8D4IEtarURX84CKh9JcVsn2x/cZcidIKAva/IkkXbuNN2FnNJL46tjwriB1ItsRRdffmwtEMlpyLDBG1K5O4MmLPhYy5Y2"
+"dungdv24"
+
+11/3/2018 6:45:17 PM: /Login/Encrypt
+"c3cxs3k1KcvMiAp+LLVDJ8CubjFLZM1QuoF6j9padz+SIjlvsFFOtvDZUI2AW/aQAnq7f99uln5R5zFDhWMOxVjBjj2wsN59brA2kMx2+m5i9xqOEaGA9IcQN8m3wouc"
+"dungdv24"
+
+11/3/2018 6:45:17 PM: /Login/Encrypt
+"fKFfwCIvZbxBRll60wHZcSUzlw1ur0uITejI5RWT+mOGj48lYUYXqgrc5wnd7n6OhbjRRTS07VTOTnjGIxA/OziOyxqpW2GP0DIYDlIFFWleuvhl/8C4SM6K8OIb7Kx0"
+"dungdv24"
+
+11/3/2018 6:45:18 PM: /Login/Encrypt
+"xRA3hg23kVeTWA6gOo2ekNH+KYrRJcFyRIE7kViDFG80YWNE6c8NLm7016bNXutDZMkc3o12AbaVF1nS2nOfG2TWxnx4R4iRVGVHuezeuxNPN00tTxfE0yTjlIDEXrAL"
+"dungdv24"
+
+11/3/2018 6:45:18 PM: /Login/Encrypt
+"UyGtfACJTbpr+bSIoXu/ddhvnsbwtVBaEYVSRvBfJTtTODylGHUGWhh4ySdYpzxiLfafLbOYR7XXkCa+S8FTqSh+MnRmnb95vVpu6doof0HT1MoceuWpweJjTX5fdyIW"
+"dungdv24"
+
+11/3/2018 6:45:19 PM: /Login/Encrypt
+"Rgb0i40J7N+4JVHNuVymWTFC+McFDTYa+F+2+7aRj9MXOamrunxYoFdOh7eSEPlEURg7OWMRrihaEk4sVhyieVoFrej9TXceF50Ga4gcz8yWSDSAfAsRbegzx9kmspRJ"
+"dungdv24"
+
+11/3/2018 6:45:19 PM: /Login/Encrypt
+"zdMjt05TXn5TEGHQ0yDaGRHIUeCAeEjPxAI/mbFVXFqtEeGex5UwF+9+VM1EZsqQmeqtC1GEKi+HrgYbQMuxCKoEsIbROKx0CeX6f79lSNVaJDR+OrN5ZxVnZV57hgM3"
+"dungdv24"
+
+11/3/2018 6:45:20 PM: /Login/Encrypt
+"acgY6Ac2aCiJueqHfTmzH5BFXUciZnXOML4yBPdk+rhV1p8HiC1FR76mi33ueHbyFVovvXV1iOeAz+hknHZROCUE6573BOnbAo9IHPjNODOzV42cuHptYZ/oYMXVUIo7"
+"dungdv24"
+
+11/3/2018 6:45:20 PM: /Login/Encrypt
+"F/zScBw29IZN/gM8VYrTLlsOVEelG52osvIaw3mkoMuUzHcEe2nxLlSslkRKWwPS5qq1Pxdhl/HdYYJBGFyFl2Zc6IoallfoUOJ+ox+uAY2+h/W0zQtIcGwLjuP2+D5T"
+"dungdv24"
+
+11/3/2018 6:45:21 PM: /Login/Encrypt
+"D0smPRenR4g9Gwqtj/lk2Ji0GEccZnDhOg2dGF3/LaENML+Qgq9upAmvkowquS6JVn3jy0vFAymbHM/QpnDdZjc9pD64n+MyHWBXieClAz86K0GdJw0h0JI2Z2ky9/Hp"
+"dungdv24"
+
+11/3/2018 6:45:21 PM: /Login/Encrypt
+"xapZWlrKOZxQgyCfo8AyU+GyS4YU8VNJU/UCjGn70UIuB771ss3lf/fxKaz/fc1nIea1OM9dJyNtYr0uHwBJzkakgVQxsLm/SlLQKjeiMyiSziiGC9DNalm2+0WyhkM6"
+"dungdv24"
+
+11/3/2018 6:45:22 PM: /Login/Encrypt
+"VJLiao7i8UY1iZaOf3HZ3jfydutetN1La3IgBhL9C6fMhyzQKfT/wEjbolbgyjgdp9OPYmuTA3n5rMHPjHdLZcQrRw7vfNSwQ+hL5/4O9aLACNSXw5aA8vB0Mm6flZfj"
+"dungdv24"
+
+11/3/2018 6:45:23 PM: /Login/Encrypt
+"5bLvtPihPU8RWA8KsH2x6nDL+ecSZDWLt+sSVU6uUDymvUGE3J7aNAljnLKF0z03PhSzHgklWt03cNo4pXuh76KlwwGs6K4k2Gw7hnmbtRnDdCb84YWkfxFVxW+w7S+3"
+"dungdv24"
+
+11/3/2018 6:45:23 PM: /Login/Encrypt
+"7NilkpH/m30wodmxZ3qevJEmz4uq85zFtkn6PQrwyihKsOML+TpUOy50/UBN7WgNKeTlgRqG5COfh4k1AsfgmqkLr6Rq+R4rG5qzLrH4nfcrDHUsth+nCwft+COL6HNy"
+"dungdv24"
+
+11/3/2018 6:45:24 PM: /Login/Encrypt
+"KXP4JXPbpxbrcb+Etz0gilj3xNpRiuaLk8t3S97QtjIi23C9hYSnCl0mvsPmAvYvfWUmD6E/VDFoZjibsA8mMG2/h4JOtGtOoB5a9revkVBSJgnmVLFDFsD5HIKZA6yY"
+"dungdv24"
+
+11/3/2018 6:45:24 PM: /Login/Encrypt
+"mC9/3c5lJwfHZ/KNZVlAnvAxw19E6skG7j0QUlS1EiApUdxM3AX2j0TBBswo0Tf0EqOELbP0a8BqXNSLZHzxIk3Ded6O2U6A97rJR9jJR0D1m7EIbbBV7z18iDX46i9g"
+"dungdv24"
+
+11/3/2018 6:45:25 PM: /Login/Encrypt
+"CXKDiW/0i3rY1vo0rgWY/7WkV5eF34Diaj06sXE/BmikFyLt7WT0Ncm7KzhToyV56cwSytTS3pZCi4X7tgK5i0dgOrXazuuELvpx0pa8NYNdO4V+Jn0rzoZFb9nOJEmH"
+"dungdv24"
+
+11/3/2018 6:45:25 PM: /Login/Encrypt
+"4DcNAgF2VPvS0WdUsxN3h9vI5JT1lU2qj1CLtt2YNdta4IKe4N1yaR3XVypDFz+/nxpe/kxfKvymcr9tVQxUOJtpP54PQIlej1RxZCn0ZxIfLntTJsHgGu2siBNhj58e"
+"dungdv24"
+
+11/3/2018 6:48:04 PM: /Login/Encrypt
+"vWidY9mFfzZWP5q+wSOS5RlNFivzAEEP0vaXoLrWU39QCDGLF0jsJuJ2+lkPEEIY5SuvFopDFlFqeHGGbHp7XevM+oHKDFFlEnVF96RypJrrG4Y1VsRmBFteUqavTvcJ"
+"dungdv24"
+
+11/3/2018 6:48:04 PM: /Login/Encrypt
+"+BlLPzY8uoSfI2HjqRoJz2NesIR6KeRWnDDSdoAwN43xYKsGEEdogvy0pOQaIF/F8bQtC2Ohbmj0RvI6hk/aYwiDZoPls8VGyBXRfrsQS8Mbz0P2Ttw//IFofmciuu7q"
+"dungdv24"
+
+11/3/2018 6:48:05 PM: /Login/Encrypt
+"Xz9he5/oHQHgYF7twDgYJc/EFZ9/H4AEUkGZcWHQgXncSo8oRzgqNNpxIlgv+APgBbB7xhFnbW12jCTFkXot4hN+V+ivnp3HJGVq1QUI2ZjR6a1MHH7ZwVxHpCghIpKe"
+"dungdv24"
+
+11/3/2018 6:48:05 PM: /Login/Encrypt
+"9VlI1JUw1mgBOPE1fvn4uRHR9r6huFfiQn5CRZBA+Mxpe4qRbQmYlS5d4a2sLNxRLsaxFmj0LdhvB6l2pVOC6rsMf8sqbyzz4sFZ/j3pzbhxCT+YKHn55xo+ngdmoGSn"
+"dungdv24"
+
+11/3/2018 6:48:06 PM: /Login/Encrypt
+"Qv7M2h5dSsnIAW/YwhOE0VrUOpxCs984K/qmDsD2i1Yvp9kFGMmBR7/tlMzbve1Qm2Q5Ef2V+IRzP8Sre+6x8O9TQ+Md5/mmkxMtNudOK+IO09uEWX5R4f4m0Xs8XUbF"
+"dungdv24"
+
+11/3/2018 6:48:50 PM: /Login/Decrypt
+""
+"Qv7M2h5dSsnIAW/YwhOE0VrUOpxCs984K/qmDsD2i1Yvp9kFGMmBR7/tlMzbve1Qm2Q5Ef2V IRzP8Sre 6x8O9TQ Md5/mmkxMtNudOK IO09uEWX5R4f4m0Xs8XUbF"
+
+11/3/2018 6:48:53 PM: /Login/Decrypt
+""
+"Qv7M2h5dSsnIAW/YwhOE0VrUOpxCs984K/qmDsD2i1Yvp9kFGMmBR7/tlMzbve1Qm2Q5Ef2V IRzP8Sre 6x8O9TQ Md5/mmkxMtNudOK IO09uEWX5R4f4m0Xs8XUbF"
+
+11/3/2018 6:48:56 PM: /Login/Decrypt
+""
+"Qv7M2h5dSsnIAW/YwhOE0VrUOpxCs984K/qmDsD2i1Yvp9kFGMmBR7/tlMzbve1Qm2Q5Ef2V IRzP8Sre 6x8O9TQ Md5/mmkxMtNudOK IO09uEWX5R4f4m0Xs8XUbF"
+
+11/3/2018 6:49:12 PM: /Login/Decrypt
+""
+"\"Qv7M2h5dSsnIAW/YwhOE0VrUOpxCs984K/qmDsD2i1Yvp9kFGMmBR7/tlMzbve1Qm2Q5Ef2V IRzP8Sre 6x8O9TQ Md5/mmkxMtNudOK IO09uEWX5R4f4m0Xs8XUbF\""
+
+11/3/2018 6:49:22 PM: /Login/Decrypt
+""
+""
+
+11/3/2018 6:49:30 PM: /Login/Decrypt
+""
+"dadasda"
+
+11/3/2018 6:49:32 PM: /Login/Decrypt
+""
+"dadasda"
+
+11/3/2018 6:54:47 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:48 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:48 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:49 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:49 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:49 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:50 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:50 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:51 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:51 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:52 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:52 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:53 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:53 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:53 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:55 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:54:55 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:55:03 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dungdv24"
+
+11/3/2018 6:55:06 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"1"
+
+11/3/2018 6:55:13 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"1321321"
+
+11/3/2018 6:55:15 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"1321321"
+
+11/3/2018 6:55:19 PM: /Login/Encrypt
+"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="
+"dasdasdas"
+
+11/3/2018 6:55:21 PM: /Login/Encrypt
+"fUw7jT/7J0lBqyafVfy+kqOKsXogktLgRcbrdcvmEcE="
+"dasdasdas"
+
+11/3/2018 6:55:24 PM: /Login/Encrypt
+"lSYZRnO13nHCID4CyuK02sQ1XC/D19loUOCEzF7kDss="
+"dasdasdas"
+
+11/3/2018 6:55:49 PM: /Login/Encrypt
+"+H/czkLn+nGm8qjsGs+Xg+cyWS8XT/RCoS7uSEGodtQ="
+"dasdasdas"
+
+11/3/2018 6:55:53 PM: /Login/Encrypt
+"+H/czkLn+nGm8qjsGs+Xg+cyWS8XT/RCoS7uSEGodtQ="
+"dasdasdas"
+
+11/3/2018 6:55:54 PM: /Login/Encrypt
+"+H/czkLn+nGm8qjsGs+Xg+cyWS8XT/RCoS7uSEGodtQ="
+"dasdasdas"
+
+11/3/2018 7:22:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:04:39 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":"dasdas","Password":"LtRte+3BeroYND6sceIWSLGvUP/3Mq9+M4B1zQ7RVno="}
+
+11/3/2018 8:05:11 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":"dadas","Password":null}
+
+11/3/2018 8:05:13 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":"dadas","Password":"LtRte+3BeroYND6sceIWSLGvUP/3Mq9+M4B1zQ7RVno="}
+
+11/3/2018 8:08:31 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":null}
+
+11/3/2018 8:10:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"abcd","Password":"pvqxSHauZoM6qW8TpLgY9ACL+I9ZEGh8eYFEfLhBImg="}
+
+11/3/2018 8:11:19 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"312312","Password":"9SA/fanSY2nYmI/xo1xAAPI6lMJZWJlupUQz74HTCJs="}
+
+11/3/2018 8:11:49 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"321312","Password":"J/IAr3VzqkvxCziimxqPyk3zVCm4ovSc2Ce4d3nql4s="}
+
+11/3/2018 8:11:58 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"gKinVD9fYHnHYyLZUziMNVf49mHNZNWoLyo3SuF6QnQ="}
+
+11/3/2018 8:12:05 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"gKinVD9fYHnHYyLZUziMNVf49mHNZNWoLyo3SuF6QnQ="}
+
+11/3/2018 8:12:15 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"admin","Password":"gxjR6bQmDyqzxSCWj1nYLU4Ev8LX8NaWJ1qeam01S6Q="}
+
+11/3/2018 8:12:20 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"admin","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:23:30 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":null,"Password":null}
+
+11/3/2018 8:23:35 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": null
+}
+{"UserName":"dungdv24","Password":null}
+
+11/3/2018 8:23:37 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"Rt7mSGy87pmptZlWb4NxYf5wPu+K4UTrBZ44GlfgXQk="}
+
+11/3/2018 8:23:43 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"lbHmMj7U1cJ5nutO1OfAtpHjnkiCZhopoK+ttlop3Jo="}
+
+11/3/2018 8:23:46 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"FWIgZUPadkEjwhvVJGdPCoqvSciol0TJc1L+Z39+QAY="}
+
+11/3/2018 8:24:25 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:32:51 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng"
+}
+{"UserName":"dungdv24","Password":"YxUIn73Vrx1BOH6pUg7MGG7ocN6g3klBYCbMl4FR0vc="}
+
+11/3/2018 8:32:59 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:33:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:36:58 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:36:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:37:26 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:37:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:07 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:21 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:39:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:38 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:39 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:48 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:50 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:39:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:40:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:43:48 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:43:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:43:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:15 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:23 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:47:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/3/2018 8:50:50 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:51:05 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:54:12 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:54:19 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:55:20 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:57:11 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:57:29 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:58:09 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:58:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/3/2018 8:58:40 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:58:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/3/2018 8:58:44 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:58:44 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/3/2018 8:58:51 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công"
+}
+{"UserName":"admin","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/3/2018 8:58:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+

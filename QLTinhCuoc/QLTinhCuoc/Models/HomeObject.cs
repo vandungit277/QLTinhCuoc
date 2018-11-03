@@ -25,4 +25,16 @@ namespace QLTinhCuoc.Models
         public string Description { get; set; }
         public string URL { get; set; }
     }
+
+    public class LoginOut
+    {
+       public int Code { get; set; }
+        public string Desc  { get; set; }
+    }
+
+    public class Login
+    {
+        public string UserName { get; set; }
+        public string Password { get; set; }
+    }
 }

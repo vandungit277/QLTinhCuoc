@@ -16,11 +16,13 @@ namespace QLTinhCuoc.Areas.Login.Controllers
         public ActionResult Index()
         {
             return View();
+          
         }
 
         public JsonResult CallLogin(Models.Login lniLogin)
         {
             var output = new LoginOut();
+           
            
             if (string.IsNullOrEmpty(lniLogin.UserName))
             {
@@ -38,7 +40,8 @@ namespace QLTinhCuoc.Areas.Login.Controllers
             {
                 lniLogin.Password = EncryptPW.Sha256encrypt(SqlHelper.CheckStringNull(lniLogin.Password));
                 output =  LoginDAL.GetMenuRoot(lniLogin);
-
+                output.UserName = lniLogin.UserName;
+                Session["SessionLogin"] = output;
             }
             catch (Exception ex)
             {
@@ -53,12 +56,28 @@ namespace QLTinhCuoc.Areas.Login.Controllers
             return Json(output, JsonRequestBehavior.AllowGet);
         }
 
+        public JsonResult SessionLogin()
+        {
+            var session = (LoginOut)Session["SessionLogin"];
+            if (session == null)
+            {
+                Session["SessionLogin"] = new LoginOut{ Code = 0, Desc = "Đã đăng xuất",UserName = ""};
+            }
+            return Json(Session["SessionLogin"], JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult KillSessionLogin()
+        {
+
+            Session["SessionLogin"] = new LoginOut { Code = 0, Desc = "Đã đăng xuất", UserName = "" };
+            return Json(Session["SessionLogin"], JsonRequestBehavior.AllowGet);
+        }
         public JsonResult Sha256encrypt(string password)
         {
             var output = EncryptPW.Sha256encrypt(password);
                         
             return Json(output, JsonRequestBehavior.AllowGet);
         }
-
+       
 	}
 }

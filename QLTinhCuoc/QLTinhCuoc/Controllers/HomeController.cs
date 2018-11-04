@@ -34,7 +34,7 @@ namespace QLTinhCuoc.Controllers
         {
             var output = new List<Menuroot>();
             try
-            {
+            {   
                 output = HomeDAL.GetMenuRoot(Username);
             }
             catch (Exception ex)

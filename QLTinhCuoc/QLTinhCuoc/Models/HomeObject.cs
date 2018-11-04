@@ -30,6 +30,8 @@ namespace QLTinhCuoc.Models
     {
        public int Code { get; set; }
         public string Desc  { get; set; }
+
+        public string UserName { get; set; }
     }
 
     public class Login

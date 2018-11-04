@@ -1,26 +1,32 @@
 ﻿$(document).ready(function () {
-    var username = $.cookie("username");
-    var isLogin = $.cookie("isLogin");
-   
-    if (isLogin == "true" && username !="") {
-        location.href = location.origin + '/'+"Home";
+    SessionLogin();
+    
+});
+$(document).keypress(function (e) {
+    if (e.which == 13) {
+        CallLogin();
     }
-
 });
 
 $("#idLogin").click(function () {
+
+    CallLogin();
+
+});
+
+function CallLogin() {
     var username = $("#username").val();
 
     var password = $("#password").val();
     if (username == "") {
-        alert("Vui lòng nhập UserName");
+        $("#ruletext").text("Vui lòng nhập UserName");
+
         return;
     }
     if (password == "") {
-        alert("Vui lòng nhập Password");
+        $("#ruletext").text("Vui lòng nhập Password");
         return;
     }
-
     var data = { "username": username, "password": password };
     window.$.ajax({
         type: "POST",
@@ -28,28 +34,44 @@ $("#idLogin").click(function () {
         url: "/Login/CallLogin",
         processData: false,
         cache: false,
-        contentType: 'application/json; charset=utf-8',
-        dataType: 'json',
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
         data: JSON.stringify(data),
         success: function (resultData) {
             if (resultData.Code == 1) {
-                $.cookie("username", username);
-                $.cookie("isLogin","true");
-                location.href = location.href = location.origin + '/' + "Home";
+                location.href = location.href = location.origin + "/" + "Home";
             } else {
-                alert(resultData.Desc);
+                $("#ruletext").text(resultData.Desc);
             }
-
-           
-
-
         },
         error: function (xhr, status, p3, p4) {
             var err = "Error " + " " + status + " " + p3 + " " + p4;
             if (xhr.responseText && xhr.responseText[0] == "{")
                 err = JSON.parse(xhr.responseText).Message;
-            alert(err);
+            $("#ruletext").text(err);
         }
     });
-});
+}
 
+function SessionLogin() {
+    window.$.ajax({
+        type: "GET",
+        async: false,
+        url: "/Login/SessionLogin",
+        processData: false,
+        cache: false,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function (resultData) {
+            if (resultData.Code == 1) {
+                location.href = location.href = location.origin + "/" + "Home";
+            }
+        },
+        error: function (xhr, status, p3, p4) {
+            var err = "Error " + " " + status + " " + p3 + " " + p4;
+            if (xhr.responseText && xhr.responseText[0] == "{")
+                err = JSON.parse(xhr.responseText).Message;
+            $("#ruletext").text(err);
+        }
+    });
+}

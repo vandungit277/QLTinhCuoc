@@ -113,8 +113,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\CallUser\Models\" />
-    <Folder Include="Areas\CallUser\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -122,6 +120,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\CallUser\CallUserAreaRegistration.cs" />
     <Compile Include="Areas\CallUser\Controllers\UserController.cs" />
+    <Compile Include="Areas\CallUser\Models\UserDAL.cs" />
+    <Compile Include="Areas\CallUser\Models\UserObject.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
@@ -236,6 +236,7 @@
     <Content Include="Layout\vendor\morrisjs\morris.min.js" />
     <Content Include="Layout\vendor\raphael\raphael.js" />
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
+    <Content Include="Scripts\Areas\CallUser\User.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Layout\vendor\bootstrap-social\bootstrap-social.less" />

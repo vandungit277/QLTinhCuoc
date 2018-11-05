@@ -1,0 +1,3454 @@
+11/5/2018 6:57:21 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 6:57:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 6:57:24 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 6:58:13 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:12:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:14:48 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:15:53 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:16:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:16:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:16:13 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:16:30 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:17:07 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:17:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:18:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/5/2018 7:27:25 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"gxjR6bQmDyqzxSCWj1nYLU4Ev8LX8NaWJ1qeam01S6Q="}
+
+11/5/2018 7:27:28 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 7:27:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:27:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:28:47 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 7:28:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:28:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:29:20 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:29:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:31:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:41:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:44:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:44:52 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 7:44:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:45:13 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:48:46 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:49 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:51 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:54 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:55 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:55 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:48:59 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:05 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:09 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:10 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:10 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:10 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:10 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:49:26 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:50:10 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 7:50:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:55:43 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:47 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:48 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 7:55:57 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 7:55:57 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:56:05 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:57:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:57:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:58:48 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:37 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:37 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 7:59:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:26 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:50 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:50 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:00:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:29 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:01:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:41 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:01:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:01:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:02:16 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:02:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:02:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:02:32 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:02:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:02:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:03:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:03:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:03:57 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:03:57 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:04:15 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:04:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:05:22 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:05:22 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:05:58 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:05:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:05:59 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:06:01 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:06:01 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:06:12 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:06:15 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 8:06:15 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:06:18 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "Email": "dungdv24@fpt.com.vn",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/5/2018 8:06:18 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:10:58 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:11:03 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:11:04 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:11:04 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:11:08 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 8:11:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:11:12 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0366750427",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:11:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:12:12 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0366750427",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:12:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:12:30 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:12:33 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 8:12:33 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:12:36 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/5/2018 8:12:36 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:13:06 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/5/2018 8:13:06 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:13:33 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/5/2018 8:13:33 PM: /home/menuroot
+[]
+"thanhtt"
+
+11/5/2018 8:14:12 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:14:15 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:14:16 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:14:18 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"P0KqRRbSeI+5HRf6d4h9MZiTIb0k+DCk9XaaGtYkrts="}
+
+11/5/2018 8:14:22 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/5/2018 8:14:22 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/5/2018 8:14:25 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 9,
+  "Status": 1,
+  "StaffName": "Đặng Văn Dũng",
+  "Birthdays": "7/27/1995 11:24:18 AM",
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0366750427",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "285506706",
+  "DayIn": "7/1/2017 11:24:18 AM",
+  "RoleName": "Developer",
+  "UserName": "Dungdv24",
+  "IPPhone": "4727",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"dungdv24"}
+
+11/5/2018 8:14:25 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+

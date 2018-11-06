@@ -1,5 +1,5 @@
-﻿SessionLogin();
-function SessionLogin() {
+﻿GetSessionLogin();
+function GetSessionLogin() {
     window.$.ajax({
         type: "GET",
         async: false,
@@ -44,6 +44,7 @@ function CallGetInfo(username) {
                 $("#idDepartmentName").text(resultData.DepartmentName);
                 $("#idDayIn").text(resultData.DayIn);
                 $("#idPhoneNumber").val(resultData.PhoneNumber);
+                $("#idgioitinh").val(resultData.SexID).change();
             } else {
                 $("#idUserName").text("");
                 $("#idStaffName").text("");

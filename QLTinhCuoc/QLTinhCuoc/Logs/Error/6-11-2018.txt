@@ -1,0 +1,107 @@
+11/6/2018 8:36:08 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:40:11 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:41:35 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:44:01 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:47:52 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:49:16 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 8:50:37 PM: /CallUser/User/Call_ChangePassword
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 74
+
+11/6/2018 9:16:47 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:16:51 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:16:54 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:16:59 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:17:04 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:17:05 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:17:05 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:17:06 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+
+11/6/2018 9:17:06 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+

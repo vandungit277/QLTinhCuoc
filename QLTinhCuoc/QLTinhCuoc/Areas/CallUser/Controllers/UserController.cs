@@ -17,6 +17,11 @@ namespace QLTinhCuoc.Areas.CallUser.Controllers
         {
             return View();
         }
+        public ActionResult ChangePassword()
+        {
+            return View();
+        }
+
 
         public JsonResult Call_InfoAccount(InInfoUser inInfo)
         {
@@ -33,6 +38,26 @@ namespace QLTinhCuoc.Areas.CallUser.Controllers
             {
                 WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
                                           + "\r\n" + JsonConvert.SerializeObject(inInfo));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult Call_ChangePassword(InChangePassword inChangePassword)
+        {
+            var output = new OutChangePassword();
+            try
+            {
+                output = UserDAL.ChangePassWord(inChangePassword);
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(inChangePassword));
             }
 
             return Json(output, JsonRequestBehavior.AllowGet);

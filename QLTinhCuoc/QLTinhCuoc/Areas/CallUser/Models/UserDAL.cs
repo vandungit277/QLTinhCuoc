@@ -32,6 +32,7 @@ namespace QLTinhCuoc.Areas.CallUser.Models
                         outInfo.StaffName = SqlHelper.CheckStringNull(dtr["StaffName"]);
                         outInfo.Email = SqlHelper.CheckStringNull(dtr["Email"]);
                         outInfo.PhoneNumber = SqlHelper.CheckStringNull(dtr["PhoneNumber"]);
+                        outInfo.SexID = SqlHelper.CheckIntNull(dtr["SexID"]);
                         outInfo.Birthdays = SqlHelper.CheckStringNull(dtr["Birthdays"]);
                         outInfo.Address = SqlHelper.CheckStringNull(dtr["Address"]);
                         outInfo.Passport = SqlHelper.CheckStringNull(dtr["Passport"]);
@@ -55,6 +56,43 @@ namespace QLTinhCuoc.Areas.CallUser.Models
             }
 
             return outInfo;
+        }
+
+        public static OutChangePassword ChangePassWord(InChangePassword inChangePassword)
+        {
+            var outChangePassword = new OutChangePassword();
+
+            try
+            {
+                SqlParameter[] pars =
+                {
+                    new SqlParameter("@UserName",inChangePassword.UserName),
+                    new SqlParameter("@OldPassword",Function.Sha256encrypt(inChangePassword.OldPassword)),
+                    new SqlParameter("@NewPassWord",Function.Sha256encrypt(inChangePassword.NewPassWord))
+                };
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConWrite(), CommandType.StoredProcedure, "dbo.Call_ChangePassword", pars).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    foreach (DataRow dtr in dt.Rows)
+                    {
+                        outChangePassword.Code = SqlHelper.CheckIntNull(dtr["Code"]);
+                        outChangePassword.Desc = SqlHelper.CheckStringNull(dtr["Desc"]);
+                        
+                    }
+
+
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outChangePassword;
         }
     }
 }

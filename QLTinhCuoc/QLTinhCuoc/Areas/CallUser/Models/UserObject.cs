@@ -11,6 +11,7 @@ namespace QLTinhCuoc.Areas.CallUser.Models
         public int Status { get; set; }
         public string StaffName { get; set; }
         public string Birthdays { get; set; }
+        public int SexID { get; set; }
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
@@ -28,5 +29,22 @@ namespace QLTinhCuoc.Areas.CallUser.Models
     public class InInfoUser
     {
         public string UserName { get; set; }
+    }
+
+
+    public class InChangePassword
+    {
+        public string UserName { get; set; }
+
+        public string OldPassword { get; set; }
+
+        public string NewPassWord { get; set; }
+    }
+
+
+    public class OutChangePassword
+    {
+        public int Code { get; set; }
+        public string Desc { get; set; }
     }
 }

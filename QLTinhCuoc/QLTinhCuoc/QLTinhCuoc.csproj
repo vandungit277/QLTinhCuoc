@@ -140,6 +140,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\FPT_Logo.jpg" />
+    <Content Include="Images\header-logo.ico" />
+    <Content Include="Images\img_avatar2.png" />
     <Content Include="Layout\data\flot-data.js" />
     <Content Include="Layout\data\morris-data.js" />
     <Content Include="Layout\dist\css\sb-admin-2.css" />
@@ -236,6 +239,7 @@
     <Content Include="Layout\vendor\morrisjs\morris.min.js" />
     <Content Include="Layout\vendor\raphael\raphael.js" />
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
+    <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
     <Content Include="Scripts\Areas\CallUser\User.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -290,6 +294,7 @@
     <Content Include="Layout\less\variables.less" />
     <Content Include="Areas\CallUser\Views\web.config" />
     <Content Include="Areas\CallUser\Views\User\Index.cshtml" />
+    <Content Include="Areas\CallUser\Views\User\ChangePassword.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

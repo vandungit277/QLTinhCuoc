@@ -38,7 +38,7 @@ namespace QLTinhCuoc.Areas.Login.Controllers
             }
             try
             {
-                lniLogin.Password = EncryptPW.Sha256encrypt(SqlHelper.CheckStringNull(lniLogin.Password));
+                lniLogin.Password = Function.Sha256encrypt(SqlHelper.CheckStringNull(lniLogin.Password));
                 output =  LoginDAL.GetMenuRoot(lniLogin);
                 output.UserName = lniLogin.UserName;
                 Session["SessionLogin"] = output;

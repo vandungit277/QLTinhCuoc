@@ -1,0 +1,8 @@
+11/7/2018 9:50:29 PM: /CallUser/User/Call_ChangePassword
+String reference not set to an instance of a String.
+Parameter name: s ; System.ArgumentNullException: String reference not set to an instance of a String.
+Parameter name: s
+   at System.Text.Encoding.GetBytes(String s)
+   at QL_Model.Function.Sha256encrypt(String phrase) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\MVCChildren\QL_Model\Function.cs:line 16
+   at QLTinhCuoc.Areas.CallUser.Models.UserDAL.ChangePassWord(InChangePassword inChangePassword) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallUser\Models\UserDAL.cs:line 67
+

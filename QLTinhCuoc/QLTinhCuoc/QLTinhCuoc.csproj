@@ -113,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\PhoneInside\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -122,6 +123,10 @@
     <Compile Include="Areas\CallUser\Controllers\UserController.cs" />
     <Compile Include="Areas\CallUser\Models\UserDAL.cs" />
     <Compile Include="Areas\CallUser\Models\UserObject.cs" />
+    <Compile Include="Areas\PhoneInside\Controllers\PhoneInsideController.cs" />
+    <Compile Include="Areas\PhoneInside\Models\PhoneInsideDAL.cs" />
+    <Compile Include="Areas\PhoneInside\Models\PhoneInsideObject.cs" />
+    <Compile Include="Areas\PhoneInside\PhoneInsideAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
@@ -136,6 +141,31 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\editor.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\imagebrowser.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\indeterminate.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\loading-image.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\loading.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\loading_2x.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\markers.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\markers_2x.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\slider-h.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\slider-v.gif" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\sprite.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\sprite_2x.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\sprite_kpi.png" />
+    <Content Include="Content\KendoUI\Content\kendo\Bootstrap\sprite_kpi_2x.png" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\LICENSE.txt" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\KendoUIGlyphs.svg" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\WebComponentsIcons.svg" />
+    <Content Include="Content\KendoUI\Content\kendo\images\back.png" />
+    <Content Include="Content\KendoUI\Content\kendo\images\kendoui.svg" />
+    <Content Include="Content\KendoUI\Content\kendo\images\wp8_icons.png" />
+    <Content Include="Content\KendoUI\Content\kendo\images\wp8_inverseicons.png" />
+    <Content Include="Content\KendoUI\Content\kendo\kendo.bootstrap.min.css" />
+    <Content Include="Content\KendoUI\Content\kendo\kendo.bootstrap.mobile.min.css" />
+    <Content Include="Content\KendoUI\Content\kendo\kendo.common-bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -241,6 +271,7 @@
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
     <Content Include="Scripts\Areas\CallUser\User.js" />
+    <Content Include="Scripts\Areas\PhoneInside\NewPhone.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Layout\vendor\bootstrap-social\bootstrap-social.less" />
@@ -295,6 +326,33 @@
     <Content Include="Areas\CallUser\Views\web.config" />
     <Content Include="Areas\CallUser\Views\User\Index.cshtml" />
     <Content Include="Areas\CallUser\Views\User\ChangePassword.cshtml" />
+    <Content Include="Areas\PhoneInside\Views\web.config" />
+    <Content Include="Areas\PhoneInside\Views\PhoneInside\Index.cshtml" />
+    <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSans-Bold.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSans-BoldOblique.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSans-ExtraLight.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSans-Oblique.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSans.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSansMono-Bold.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSansMono-BoldOblique.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSansMono-Oblique.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSansMono.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSerif-Bold.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSerif-BoldItalic.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSerif-Italic.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\DejaVu\DejaVuSerif.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\KendoUIGlyphs.eot" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\KendoUIGlyphs.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\KendoUIGlyphs.woff" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\WebComponentsIcons.eot" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\WebComponentsIcons.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\WebComponentsIcons.woff" />
+    <Content Include="Content\KendoUI\Content\kendo\images\kendoui.ttf" />
+    <Content Include="Content\KendoUI\Content\kendo\images\kendoui.woff" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />
@@ -302,6 +360,11 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\jquery.cookie.js" />
+    <Content Include="Scripts\KendoUI\Scripts\bootstrap-3.3.7\bootstrap-dialog.js" />
+    <Content Include="Scripts\KendoUI\Scripts\bootstrap-3.3.7\bootstrap.min.js" />
+    <Content Include="Scripts\KendoUI\Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\KendoUI\Scripts\jszip.min.js" />
+    <Content Include="Scripts\KendoUI\Scripts\kendo\kendo.all.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />

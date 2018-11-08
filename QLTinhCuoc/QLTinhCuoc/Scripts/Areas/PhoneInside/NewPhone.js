@@ -2,10 +2,11 @@
     $("#idsave").click(function () {
         CallSaveNewIPPhone();
     });
+    CallGetInfo();
 });
 
 // create DropDownList from input HTML element
-CallGetInfo();
+
 
 function CallGetInfo() {
     window.$.ajax({

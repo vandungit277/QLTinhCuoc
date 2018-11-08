@@ -21,7 +21,8 @@ function SessionLoginchangepass() {
             if (resultData.Code == 1) {
                 var oldpassword = $("#idOldPassword").val();
                 var newpassword = $("#idNewPassword").val();
-                CallChangePassword(resultData.UserName, oldpassword, newpassword);
+                var newpasswordv2 = $("#idNewPasswordv2").val();
+                CallChangePassword(resultData.UserName, oldpassword, newpassword,newpasswordv2);
             }
         },
         error: function (xhr, status, p3, p4) {
@@ -34,13 +35,21 @@ function SessionLoginchangepass() {
 }
 
 
-function CallChangePassword(username, oldpassword, newpassword) {
+function CallChangePassword(username, oldpassword, newpassword, newpasswordv2) {
 
     if (newpassword.length < 6) {
         $("#idinfo").html('<p style=" color: red ">Vui lòng nhập mật khẩu mới > 6 ký tự</p>');
         return;
     }
+    if (newpasswordv2 != newpassword) {
+        $("#idinfo").html('<p style=" color: red ">Mật khẩu không khớp</p>');
+        return;
+    }
 
+    if (oldpassword == newpassword) {
+        $("#idinfo").html('<p style=" color: red ">Mật khẩu mới không được trùng với mật khẩu cũ</p>');
+        return;
+    }
     if (oldpassword == "") {
         $("#idinfo").html('<p style=" color: red ">Vui lòng nhập mật khẩu cũ</p>');
         return;
@@ -64,8 +73,7 @@ function CallChangePassword(username, oldpassword, newpassword) {
                 $("#idinfo").html('<p style=" color: green ">' + resultData.Desc + "</p>");
                 $("#idOldPassword").val("");
                 $("#idNewPassword").val("");
-
-
+                $("#idNewPasswordv2").val("");
             } else {
                 $("#idinfo").html('<p style=" color: red ">' + resultData.Desc + "</p>");
 

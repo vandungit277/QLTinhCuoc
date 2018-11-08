@@ -79,5 +79,83 @@ namespace QLTinhCuoc.Areas.PhoneInside.Models
 
             return outNewIpPhone;
         }
+
+
+        public static List<OutInfoIPPhoneInside> InfoIPPhoneInside()
+        {
+            var outInfo = new List<OutInfoIPPhoneInside>();
+
+            try
+            {
+
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_InfoIPPhoneInside", null).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                                     select new OutInfoIPPhoneInside
+                        {
+                            StaffName = SqlHelper.CheckStringNull(dtr["StaffName"]),
+                            UserName = SqlHelper.CheckStringNull(dtr["UserName"]),
+                            Email = SqlHelper.CheckStringNull(dtr["Email"]),
+                            CompanyName = SqlHelper.CheckStringNull(dtr["CompanyName"]),
+                            BranchName = SqlHelper.CheckStringNull(dtr["BranchName"]),
+                            DepartmentName = SqlHelper.CheckStringNull(dtr["DepartmentName"]),
+                            IPPhone = SqlHelper.CheckStringNull(dtr["IPPhone"]),
+                            NameServiceProvider = SqlHelper.CheckStringNull(dtr["NameServiceProvider"])
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
+
+
+
+        public static List<OutInfoIPPhoneInside> GetIPPhoneCompany(string UserName)
+        {
+            var outInfo = new List<OutInfoIPPhoneInside>();
+
+            try
+            {
+                SqlParameter[] pars =
+                {
+                    new SqlParameter("@UserName",UserName)                 
+                };
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetIPPhoneCompany", pars).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                        select new OutInfoIPPhoneInside
+                        {
+                            StaffName = SqlHelper.CheckStringNull(dtr["StaffName"]),
+                            UserName = SqlHelper.CheckStringNull(dtr["UserName"]),
+                            Email = SqlHelper.CheckStringNull(dtr["Email"]),
+                            CompanyName = SqlHelper.CheckStringNull(dtr["CompanyName"]),
+                            BranchName = SqlHelper.CheckStringNull(dtr["BranchName"]),
+                            DepartmentName = SqlHelper.CheckStringNull(dtr["DepartmentName"]),
+                            IPPhone = SqlHelper.CheckStringNull(dtr["IPPhone"]),
+                            NameServiceProvider = SqlHelper.CheckStringNull(dtr["NameServiceProvider"])
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
     }
 }

@@ -1,0 +1,6054 @@
+11/8/2018 6:58:13 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 6:58:14 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 6:58:18 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 6:58:18 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:04:40 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:04:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:05:10 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:05:30 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:06:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:07:05 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:07:07 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:07:24 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:07:24 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:34 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:10:34 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:43 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:10:43 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:49 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:10:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:53 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "SexID": 2,
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "5553",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/8/2018 7:10:53 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:10:59 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "SexID": 2,
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "5553",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/8/2018 7:10:59 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:11:42 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "SexID": 2,
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "5553",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/8/2018 7:11:43 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:16:22 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:16:22 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:17:25 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:17:27 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:17:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:17:40 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:17:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:17:43 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:17:54 PM: /CallUser/User/Call_ChangePassword
+{
+  "Code": 1,
+  "Desc": "Đổi mật khẩu thành công"
+}
+{"UserName":"thanhtt","OldPassword":"thanhtt","NewPassWord":"thanhtt1"}
+
+11/8/2018 7:18:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:20:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:20:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:20:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:20:11 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:20:50 PM: /CallUser/User/Call_ChangePassword
+{
+  "Code": -2,
+  "Desc": "Mật khẩu cũ không đúng"
+}
+{"UserName":"thanhtt","OldPassword":"thanhtt","NewPassWord":"thanhtt123"}
+
+11/8/2018 7:20:54 PM: /CallUser/User/Call_ChangePassword
+{
+  "Code": -2,
+  "Desc": "Mật khẩu cũ không đúng"
+}
+{"UserName":"thanhtt","OldPassword":"thanhtt","NewPassWord":"thanhtt123"}
+
+11/8/2018 7:21:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:21:21 PM: /CallUser/User/Call_ChangePassword
+{
+  "Code": 1,
+  "Desc": "Đổi mật khẩu thành công"
+}
+{"UserName":"thanhtt","OldPassword":"thanhtt1","NewPassWord":"thanhtt"}
+
+11/8/2018 7:21:29 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 7:21:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:21:32 PM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "SexID": 2,
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "5553",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/8/2018 7:21:32 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:21:35 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 7:21:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:51:57 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 7:51:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:52:05 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:53:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:53:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:53:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:53:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:56:22 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 7:56:23 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 7:56:25 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:02:16 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:02:17 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:02:19 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[]
+""
+
+11/8/2018 8:02:20 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:03:02 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[]
+""
+
+11/8/2018 8:03:36 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:03:37 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:03:41 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[]
+""
+
+11/8/2018 8:03:58 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:04:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:04:01 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:04:46 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:04:50 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:04:50 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:04:52 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:04:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:11 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:13 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:09:13 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:22 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:25 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:09:25 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:09:37 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:09:37 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:10:33 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:10:33 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:10:56 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:10:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:11:14 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:11:14 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:11:31 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:11:31 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:11:49 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:11:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:12:09 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:12:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:12:30 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:12:30 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:12:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:12:54 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:12:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:16:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:16:11 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:16:11 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:16:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:16:57 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:16:57 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:18:11 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:18:12 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:18:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:19:45 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:19:48 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:19:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:19:51 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:19:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:20:04 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:20:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:20:09 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:20:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:29:17 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:29:19 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:29:20 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:17 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:19 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:31:20 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:38 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:42 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:31:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:31:43 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:31:43 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:45:38 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:45:38 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:45:58 PM: /PhoneInside/PhoneInside/Call_NewIpPhoneInside
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"UserName":"giautq","ServiceProviderID":1,"IPPhone":"18987","Status":1,"Description":"Cấp số điện thoại cho GiauTQ","CreateBy":"thanhtt"}
+
+11/8/2018 8:46:32 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:46:32 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:49:15 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:49:15 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:55:35 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[]
+""
+
+11/8/2018 8:55:39 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:55:39 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:55:51 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[]
+""
+
+11/8/2018 8:55:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:55:59 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[]
+""
+
+11/8/2018 8:56:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:56:12 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[]
+""
+
+11/8/2018 8:56:38 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 8:56:39 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:56:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:56:44 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:56:52 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:56:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:25 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:25 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:28 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:29 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:30 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:30 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:32 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:32 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:43 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:43 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:44 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:44 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:49 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:51 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:51 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:53 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:57:56 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:57:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:07 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:34 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:34 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:34 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:34 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:36 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:39 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:39 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:44 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:44 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:58:58 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:58:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:59:08 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:59:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:59:11 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:59:11 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:59:29 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:59:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 8:59:45 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/8/2018 8:59:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/8/2018 9:00:09 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "dungdv24"
+}
+{"UserName":"dungdv24","Password":"lbHmMj7U1cJ5nutO1OfAtpHjnkiCZhopoK+ttlop3Jo="}
+
+11/8/2018 9:00:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/8/2018 9:00:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/8/2018 9:00:18 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/8/2018 9:00:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/8/2018 9:00:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  }
+]
+"dungdv24"
+
+11/8/2018 9:00:29 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "giautq"
+}
+{"UserName":"giautq","Password":"qqPRPHJ4V87RnhULaS3D2fGxFwlAJEh/RPou2qyK9UU="}
+
+11/8/2018 9:00:29 PM: /home/menuroot
+[]
+"giautq"
+
+11/8/2018 9:00:31 PM: /home/menuroot
+[]
+"giautq"
+
+11/8/2018 9:00:38 PM: /CallUser/User/Call_ChangePassword
+{
+  "Code": 1,
+  "Desc": "Đổi mật khẩu thành công"
+}
+{"UserName":"giautq","OldPassword":"dungdv@24","NewPassWord":"giautq"}
+
+11/8/2018 9:03:01 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/8/2018 9:03:02 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+

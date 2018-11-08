@@ -141,6 +141,7 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\KendoUI\Gird.css" />
     <Content Include="Content\KendoUI\Content\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Content\KendoUI\Content\kendo\Bootstrap\editor.png" />
     <Content Include="Content\KendoUI\Content\kendo\Bootstrap\imagebrowser.png" />
@@ -270,8 +271,10 @@
     <Content Include="Layout\vendor\raphael\raphael.js" />
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
+    <Content Include="Scripts\Areas\PhoneInside\InfoPhoneInside.js" />
     <Content Include="Scripts\Areas\CallUser\User.js" />
     <Content Include="Scripts\Areas\PhoneInside\NewPhone.js" />
+    <Content Include="Scripts\Areas\PhoneInside\PhoneCompany.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Layout\vendor\bootstrap-social\bootstrap-social.less" />
@@ -353,6 +356,8 @@
     <Content Include="Content\KendoUI\Content\kendo\fonts\glyphs\WebComponentsIcons.woff" />
     <Content Include="Content\KendoUI\Content\kendo\images\kendoui.ttf" />
     <Content Include="Content\KendoUI\Content\kendo\images\kendoui.woff" />
+    <Content Include="Areas\PhoneInside\Views\PhoneInside\InfoIPPhoneInside.cshtml" />
+    <Content Include="Areas\PhoneInside\Views\PhoneInside\PhoneCompany.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

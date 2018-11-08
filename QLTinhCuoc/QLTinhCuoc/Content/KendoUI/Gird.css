@@ -1,0 +1,197 @@
+﻿body {
+}
+/* Table Division**/
+.tbDivision{
+    width:100%;
+    padding:inherit;
+    padding-top:3px;
+    border:inherit;
+    margin-top:3px;
+    margin-left: 3px;
+   
+}
+#tdBrownFile {
+    width:50%;
+    padding: inherit;
+    border: inherit;
+}
+/*header cell**/
+.k-window-titlebar.k-header{
+    background:rgb(0, 119, 194) !important;
+    cursor: pointer !important;
+    color:white;
+}
+/*mới thêm 2/1/2018*/
+.tbFilter1 {
+    text-align: right;
+    vertical-align: middle;
+
+}
+.k-primary.k-button{
+    background:rgb(0, 119, 194) !important;
+    cursor: pointer !important;
+    color:white;
+}
+
+.k-dropdown-wrap .k-input, .k-selectbox .k-input {
+    height: 1.65em;
+    line-height: 1.65em;
+    padding: .177em 0;
+    text-indent: .33em;
+    border: 0;
+    margin: 0;
+    text-align: left;
+}
+.table-header-cell.k-header{
+  
+    text-align: center; 
+    white-space: normal;
+    font-size: 14.5px;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    background:rgb(0, 119, 194) !important;
+    cursor: pointer !important;
+    color:white;
+    width: auto;
+
+}
+.table-header-cell.k-header a.k-link {
+    color:white;
+    font-weight: 500;
+    text-align:center;
+}
+
+
+#trDivision {
+  
+}
+
+/* css input file*/
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+.btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 100px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background: red;
+  cursor: inherit;
+  display: block;
+}
+input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
+
+
+.inputgroup {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+   
+}
+
+.inputgroupbtn {
+    position: relative;
+    white-space: nowrap;
+}
+
+
+.btn.btnprimary.btnfile {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.k-button input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 29px;
+    font-size: 29px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    background: red;
+    cursor: inherit;
+    display: block;
+}
+
+
+/**Collor button **/
+
+.k-primary.k-button{
+    background:rgb(0, 119, 194) !important;
+    cursor: pointer !important;
+    color:white;
+}
+
+
+
+/**Header cell**/
+.table-header-cell {
+    text-align: center; 
+    white-space: normal;
+     font-size: 17.5px;
+    font-weight: 500;
+    
+    
+    font-family:initial;
+    font-style: normal;
+	font-variant: normal;
+	line-height: 15.4px;
+}
+
+
+
+.k-grid table tr:hover td {
+  background:rgb(0, 119, 194) !important;
+cursor: pointer !important;
+color:white;
+}
+
+
+#trLocationVM > .tdValue > span.k-dropdown {
+    width: 100%;
+}
+
+/*
+[aria-owns="se_Location_listbox"] {
+    width: 100%;
+}
+*/
+
+.tbFilter1 tr td:first-child {
+    width: 30%;
+}
+
+.tbFilter1 tr td:last-child {
+    width: 70%;
+}
+/*01/10/2018
+  Dungdv24  */
+.tooltiptext {
+    visibility: hidden;
+    width: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+#btnOpenUrl:hover .tooltiptext {
+    visibility: visible;
+}

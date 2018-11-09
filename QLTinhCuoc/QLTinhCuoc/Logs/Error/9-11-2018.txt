@@ -1,0 +1,20 @@
+11/9/2018 8:01:53 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+Column 'ServiceProviderID' does not belong to table Table. ; System.ArgumentException: Column 'ServiceProviderID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Areas.ServiceProvider.Models.ServiceProviderDAL.<InfoIPPhoneInside>b__1(DataRow dtr) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\ServiceProvider\Models\ServiceProviderDAL.cs:line 25
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at QLTinhCuoc.Areas.ServiceProvider.Models.ServiceProviderDAL.InfoIPPhoneInside() in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\ServiceProvider\Models\ServiceProviderDAL.cs:line 24
+
+11/9/2018 8:02:11 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+Column 'ServiceProviderID' does not belong to table Table. ; System.ArgumentException: Column 'ServiceProviderID' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at QLTinhCuoc.Areas.ServiceProvider.Models.ServiceProviderDAL.<InfoIPPhoneInside>b__1(DataRow dtr) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\ServiceProvider\Models\ServiceProviderDAL.cs:line 25
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at QLTinhCuoc.Areas.ServiceProvider.Models.ServiceProviderDAL.InfoIPPhoneInside() in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\ServiceProvider\Models\ServiceProviderDAL.cs:line 24
+

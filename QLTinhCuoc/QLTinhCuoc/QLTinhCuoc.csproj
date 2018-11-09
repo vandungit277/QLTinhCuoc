@@ -114,6 +114,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\PhoneInside\Views\Shared\" />
+    <Folder Include="Areas\ServiceProvider\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -127,6 +128,10 @@
     <Compile Include="Areas\PhoneInside\Models\PhoneInsideDAL.cs" />
     <Compile Include="Areas\PhoneInside\Models\PhoneInsideObject.cs" />
     <Compile Include="Areas\PhoneInside\PhoneInsideAreaRegistration.cs" />
+    <Compile Include="Areas\ServiceProvider\Controllers\ServiceProviderController.cs" />
+    <Compile Include="Areas\ServiceProvider\Models\ServiceProviderDAL.cs" />
+    <Compile Include="Areas\ServiceProvider\Models\ServiceProviderObject.cs" />
+    <Compile Include="Areas\ServiceProvider\ServiceProviderAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
@@ -275,6 +280,8 @@
     <Content Include="Scripts\Areas\CallUser\User.js" />
     <Content Include="Scripts\Areas\PhoneInside\NewPhone.js" />
     <Content Include="Scripts\Areas\PhoneInside\PhoneCompany.js" />
+    <Content Include="Scripts\Areas\ServiceProvider\ListServiceProvider.js" />
+    <Content Include="Scripts\Areas\ServiceProvider\NewServiceCharge.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Layout\vendor\bootstrap-social\bootstrap-social.less" />
@@ -358,6 +365,9 @@
     <Content Include="Content\KendoUI\Content\kendo\images\kendoui.woff" />
     <Content Include="Areas\PhoneInside\Views\PhoneInside\InfoIPPhoneInside.cshtml" />
     <Content Include="Areas\PhoneInside\Views\PhoneInside\PhoneCompany.cshtml" />
+    <Content Include="Areas\ServiceProvider\Views\web.config" />
+    <Content Include="Areas\ServiceProvider\Views\ServiceProvider\Index.cshtml" />
+    <Content Include="Areas\ServiceProvider\Views\ServiceProvider\NewServiceCharge.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

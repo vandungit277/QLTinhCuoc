@@ -1,0 +1,8751 @@
+11/9/2018 7:08:42 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:08:48 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 7:08:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:08:52 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:08:53 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:08:56 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:08:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:08:58 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:08:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:37:28 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:37:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:37:31 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 7:51:24 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 7:51:24 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:01:54 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[]
+""
+
+11/9/2018 8:01:58 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 8:01:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:02:11 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[]
+""
+
+11/9/2018 8:02:34 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:08:11 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 8:08:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:08:15 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:08:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:08:27 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:08:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:09:07 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:09:08 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:09:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:10:17 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:10:19 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:10:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:10:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:10:56 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:10:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:11:39 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:11:40 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:11:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:11:45 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:11:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:12:13 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:12:14 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:12:14 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:27 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:13:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:29 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:13:29 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:31 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:33 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:35 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:13:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:13:54 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:13:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:19:41 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:19:42 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:19:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:28:41 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:28:45 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 8:28:46 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:28:47 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:28:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:30:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:30:55 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:30:56 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:30:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:37:39 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:37:39 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:37:44 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 8:37:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:37:52 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:37:52 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:37:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:38:37 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:38:37 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:38:37 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:40:16 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:40:16 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:40:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:40:45 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:40:45 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:40:45 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:41:08 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:41:08 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:41:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:41:28 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 8:41:28 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:41:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:50:31 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:50:31 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:50:31 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:50:47 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:50:47 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:50:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:51:47 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:51:47 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:51:53 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/9/2018 8:51:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:51:56 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:52:03 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:52:03 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:52:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:52:04 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:52:04 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:52:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:52:40 PM: /ServiceProvider/ServiceProvider/Call_NewServiceCharge
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"ServiceProviderID":2,"TypeCallID":1,"Status":1,"block1":60,"price1":90.9,"block2":1,"price2":15.15,"UpdateBy":"thanhtt"}
+
+11/9/2018 8:52:54 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:52:54 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:52:54 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:15 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:16 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:53:16 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:53:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:24 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:53:24 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:53:24 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:27 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:53:27 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:53:27 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:36 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:40 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:53:42 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:53:42 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:53:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:54:05 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:54:05 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:54:05 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:54:06 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:54:07 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:54:07 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:54:07 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:54:09 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 60,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:54:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 8:54:21 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 8:54:21 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 8:54:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:02:09 PM: /ServiceProvider/ServiceProvider/Call_NewServiceCharge
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"ServiceProviderID":2,"TypeCallID":3,"Status":1,"block1":6,"price1":109.09,"block2":1,"price2":18.18,"UpdateBy":"thanhtt"}
+
+11/9/2018 9:02:52 PM: /ServiceProvider/ServiceProvider/Call_NewServiceCharge
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"ServiceProviderID":2,"TypeCallID":5,"Status":1,"block1":6,"price1":109.09,"block2":1,"price2":18.18,"UpdateBy":"thanhtt"}
+
+11/9/2018 9:04:33 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:04:34 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:05:10 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:05:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:05:35 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:05:35 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:07:19 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:07:19 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:10:33 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:10:33 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:10:33 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:10:34 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:10:34 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:10:46 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:10:46 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:10:48 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:10:48 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:10:49 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:10:49 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:11:00 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:11:00 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:11:02 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:11:02 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:11:02 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:11:03 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:11:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:11:52 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:11:52 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:11:59 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:11:59 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:12:03 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:12:03 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:12:09 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:12:09 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:12:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:12:28 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/9/2018 9:14:38 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg="}
+
+11/9/2018 9:14:42 PM: /Login/CallLogin
+{
+  "Code": 0,
+  "Desc": "Tài khoản hoặc mật khẩu không đúng",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg="}
+
+11/9/2018 9:14:46 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk="}
+
+11/9/2018 9:14:47 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:14:53 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:14:58 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:02 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:15:02 PM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:15:02 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:03 PM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/9/2018 9:15:04 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:08 PM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:15:08 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:09 PM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/9/2018 9:15:09 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:10 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:12 PM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/9/2018 9:15:12 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:14 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:15 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:16 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/9/2018 9:15:42 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+

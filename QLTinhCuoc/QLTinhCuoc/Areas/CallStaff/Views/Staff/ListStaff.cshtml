@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "ListStaff";
+    Layout = "~/Views/Shared/_Share.cshtml";
+}
+
+<link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                Danh sách nhân viên
+            </div>
+            <center>
+                <table style="margin: 10px;" class="">
+                    <tr style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tìm kiếm theo:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idopsearch"></td>
+                       
+                    </tr>
+                    <tr id="trcompany" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Công ty:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idcompany"></td>
+                    </tr>
+                    <tr id="trbranch" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Chi nhánh:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idbranch"></td>
+                    </tr>
+                    <tr id="trdepartment" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Phòng ban:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="iddepartment"></td>
+                    </tr>
+                    <tr id="trsearchstaff" style="height: 40px;">
+                        <td class="active"><strong>Nhân viên</strong></td>
+                        <td></td>
+                        <td><input id="idsearchstaff" class="k-textbox"/></td>
+                        
+                    </tr>
+                    <tr id="trtext" style="height: 40px;">
+                        <td class="active"><strong></strong></td>
+                        <td></td>
+                        <td><input id="idtext" class="k-textbox" /></td>
+
+                    </tr>
+                    <tr style="height: 40px;">
+                        <td></td>
+                        <td></td>
+                        <td><button id="idbtnsearch" type="button" class="btn btn-outline btn-info" style="width:65%"><span class="fa fa-search"></span> Tìm kiếm</button> </td> 
+                        
+                    </tr>
+                </table>
+                <div id="grid"></div>
+            </center>
+            
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/Areas/CallStaff/ListStaff.js"></script>

@@ -136,5 +136,65 @@ namespace QLTinhCuoc.Areas.CallDropDown.Models
 
             return outInfo;
         }
+
+        public static List<GetTypeFixedDialName> GetTypeFixedDialName()
+        {
+            var outInfo = new List<GetTypeFixedDialName>();
+
+            try
+            {
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetTypeFixedDialName", null).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                                     select new GetTypeFixedDialName
+                        {
+                            TypeFixedDialName = SqlHelper.CheckStringNull(dtr["TypeFixedDialName"]),
+                            TypeFixedDialID = SqlHelper.CheckIntNull(dtr["TypeFixedDialID"]),
+
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
+
+        public static List<GetLocation> GetLocation()
+        {
+            var outInfo = new List<GetLocation>();
+
+            try
+            {
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetLocation", null).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                                     select new GetLocation
+                        {
+                            LocationName = SqlHelper.CheckStringNull(dtr["LocationName"]),
+                            LocationID = SqlHelper.CheckIntNull(dtr["LocationID"]),
+
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
     }
 }

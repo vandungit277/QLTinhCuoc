@@ -58,5 +58,53 @@ namespace QLTinhCuoc.Areas.CallStaff.Models
 
             return outNewStaff;
         }
+
+        public static List<OutListStaff> GetListStaff(IntListStaff ints)
+        {
+            var outInfo = new List<OutListStaff>();
+
+            try
+            {
+                SqlParameter[] pars =
+                {   new SqlParameter("@Search",ints.Search) ,                
+                    new SqlParameter("@UserName",ints.UserName) ,
+                    new SqlParameter("@ConpanyID",ints.ConpanyID) ,                
+                    new SqlParameter("@BranchID",ints.BranchID)  ,
+                    new SqlParameter("@DepartmentID",ints.DepartmentID)  
+                };
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_ListStaff", pars).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                    select new OutListStaff
+                        {
+                            StaffName = SqlHelper.CheckStringNull(dtr["StaffName"]),
+                            UserName = SqlHelper.CheckStringNull(dtr["UserName"]),
+                            Email = SqlHelper.CheckStringNull(dtr["Email"]),
+                            Address = SqlHelper.CheckStringNull(dtr["Address"]),
+                            SexName = SqlHelper.CheckStringNull(dtr["SexName"]),
+                            RoleName = SqlHelper.CheckStringNull(dtr["RoleName"]),
+                            Passport = SqlHelper.CheckStringNull(dtr["Passport"]),
+                            Birthdays = SqlHelper.CheckStringNull(dtr["Birthdays"]),
+                            DayIn = SqlHelper.CheckStringNull(dtr["DayIn"]),
+                            CompanyName = SqlHelper.CheckStringNull(dtr["CompanyName"]),
+                            BranchName = SqlHelper.CheckStringNull(dtr["BranchName"]),
+                            DepartmentName = SqlHelper.CheckStringNull(dtr["DepartmentName"]),
+                            IPPhone = SqlHelper.CheckStringNull(dtr["IPPhone"]),
+                            NameServiceProvider = SqlHelper.CheckStringNull(dtr["NameServiceProvider"])
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
     }
 }

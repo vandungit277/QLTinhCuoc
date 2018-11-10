@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "ListStaff";
+    Layout = "~/Views/Shared/_Share.cshtml";
+}
+
+<link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                Danh sách đầu số
+            </div>
+            <center>
+                <table style="margin: 10px;" class="">
+                    <tr style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tìm kiếm theo:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idopsearch"></td>
+
+                    </tr>
+                    <tr id="trlocation" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tỉnh/TP:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idlocation"></td>
+                    </tr>
+                    <tr id="trtypefixeddial" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Loại phone:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idtypefixeddial"></td>
+                    </tr>
+                    <tr id="trsearchFixedDial" style="height: 40px;">
+                        <td class="active"><strong>Đầu số</strong></td>
+                        <td></td>
+                        <td><input id="idsearchFixedDial" class="k-textbox" /></td>
+
+                    </tr>
+                    <tr id="trtext" style="height: 40px;">
+                        <td class="active"><strong></strong></td>
+                        <td></td>
+                        <td><input id="idtext" class="k-textbox" /></td>
+
+                    </tr>
+                    <tr style="height: 40px;">
+                        <td></td>
+                        <td></td>
+                        <td><button id="idbtnsearch" type="button" class="btn btn-outline btn-info" style="width:65%"><span class="fa fa-search"></span> Tìm kiếm</button> </td>
+
+                    </tr>
+                </table>
+                <div id="grid"></div>
+            </center>
+
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/Areas/FixedDial/ListFixedDial.js"></script>

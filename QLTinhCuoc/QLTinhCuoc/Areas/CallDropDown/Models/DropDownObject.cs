@@ -30,4 +30,18 @@ namespace QLTinhCuoc.Areas.CallDropDown.Models
 
         public string RoleName { get; set; }
     }
+
+    public class GetTypeFixedDialName
+    {
+        public int TypeFixedDialID { get; set; }
+
+        public string TypeFixedDialName { get; set; }
+    }
+
+    public class GetLocation
+    {
+        public int LocationID { get; set; }
+
+        public string LocationName { get; set; }
+    }
 }

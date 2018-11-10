@@ -4,38 +4,38 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Newtonsoft.Json;
-using QLTinhCuoc.Areas.CallStaff.Models;
+using QLTinhCuoc.Areas.CallFixedDial.Models;
 using QLTinhCuoc.Models;
 using QL_Model;
 
-namespace QLTinhCuoc.Areas.CallStaff.Controllers
+namespace QLTinhCuoc.Areas.CallFixedDial.Controllers
 {
-    public class StaffController : Controller
+    public class FixedDialController : Controller
     {
         //
-        // GET: /CallStaff/Staff/
+        // GET: /CallFixedDial/FixedDial/
         public ActionResult Index()
         {
             return View();
         }
-        public ActionResult ListStaff()
+        public ActionResult NewFixedDial()
         {
             return View();
         }
-        // POST: /CallStaff/Staff/Call_NewStaff
+        // Post: /CallFixedDial/FixedDial/Call_NewFixedDial
         /// <summary>
-        /// Thêm mới nhân viên
+        /// Thêm mới đầu số
         /// </summary>
-        /// <param name="intNewStaff"></param>
+        /// <param name="inp"></param>
         /// <returns></returns>
-        public JsonResult Call_NewStaff(IntNewStaff intNewStaff)
+        public JsonResult Call_NewFixedDial(IntNewFixedDial inp)
         {
             var output = new Result();
             try
             {
                 var session = (LoginOut)Session["SessionLogin"];
-                intNewStaff.CreateBy = session.UserName;
-                output = StaffDAL.NewStaff(intNewStaff);
+                inp.CreateBy = session.UserName;
+                output = FixedDialDAL.NewServiceCharge(inp);
             }
             catch (Exception ex)
             {
@@ -44,23 +44,23 @@ namespace QLTinhCuoc.Areas.CallStaff.Controllers
             finally
             {
                 WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
-                                          + "\r\n" + JsonConvert.SerializeObject(intNewStaff));
+                                          + "\r\n" + JsonConvert.SerializeObject(inp));
             }
 
             return Json(output, JsonRequestBehavior.AllowGet);
         }
+        // Post: /CallFixedDial/FixedDial/Call_ListFixedDial
         /// <summary>
-        /// 
+        /// Lấy danh sách đầu số
         /// </summary>
-        /// <param name="ints"></param>
+        /// <param name="inp"></param>
         /// <returns></returns>
-        // POST: /CallStaff/Staff/Call_GetListStaff
-        public JsonResult Call_GetListStaff(IntListStaff ints)
+        public JsonResult Call_ListFixedDial(IntListFixedDial ints)
         {
-            var output = new List<OutListStaff>();
+            var output = new List<OutListFixedDial>();
             try
             {
-                output = StaffDAL.GetListStaff(ints);
+                output = FixedDialDAL.GetListStaff(ints);
             }
             catch (Exception ex)
             {

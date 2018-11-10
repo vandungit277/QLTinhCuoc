@@ -111,5 +111,55 @@ namespace QLTinhCuoc.Areas.CallDropDown.Controllers
             return Json(output, JsonRequestBehavior.AllowGet);
         }
 
+        // GET: /CallDropDown/DropDown/Call_GetTypeFixedDialName
+        /// <summary>
+        /// Lấy thông tin loại đầu số dropdown
+        /// </summary>
+        /// <returns></returns>
+        public JsonResult Call_GetTypeFixedDialName()
+        {
+            var output = new List<GetTypeFixedDialName>();
+            try
+            {
+                output = DropDownDAL.GetTypeFixedDialName();
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(""));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+        // GET: /CallDropDown/DropDown/Call_GetLocation
+        /// <summary>
+        /// Lấy thông tin loại đầu số dropdown
+        /// </summary>
+        /// <returns></returns>
+        public JsonResult Call_GetLocation()
+        {
+            var output = new List<GetLocation>();
+            try
+            {
+                output = DropDownDAL.GetLocation();
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(""));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+        
+
 	}
 }

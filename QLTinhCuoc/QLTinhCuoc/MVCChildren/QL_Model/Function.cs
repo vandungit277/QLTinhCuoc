@@ -11,10 +11,15 @@ namespace QL_Model
     {
         public static string Sha256encrypt(string phrase)
         {
-            UTF8Encoding encoder = new UTF8Encoding();
-            SHA256Managed sha256hasher = new SHA256Managed();
-            byte[] hashedDataBytes = sha256hasher.ComputeHash(encoder.GetBytes(phrase));
+            var encoder = new UTF8Encoding();
+            var sha256hasher = new SHA256Managed();
+            var hashedDataBytes = sha256hasher.ComputeHash(encoder.GetBytes(phrase));
             return Convert.ToBase64String(hashedDataBytes);
+        }
+        public static string FormatDateSQL(string date)
+        {
+            var strDate = date.Split('/');
+            return strDate[2] + "/" + strDate[1] + "/" + strDate[0];
         }
     }
 }

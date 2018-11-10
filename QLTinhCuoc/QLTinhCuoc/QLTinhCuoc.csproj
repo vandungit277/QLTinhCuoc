@@ -113,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\CallStaff\Views\Shared\" />
     <Folder Include="Areas\PhoneInside\Views\Shared\" />
     <Folder Include="Areas\ServiceProvider\Views\Shared\" />
   </ItemGroup>
@@ -120,6 +121,14 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\CallDropDown\CallDropDownAreaRegistration.cs" />
+    <Compile Include="Areas\CallDropDown\Controllers\DropDownController.cs" />
+    <Compile Include="Areas\CallDropDown\Models\DropDownDAL.cs" />
+    <Compile Include="Areas\CallDropDown\Models\DropDownObject.cs" />
+    <Compile Include="Areas\CallStaff\CallStaffAreaRegistration.cs" />
+    <Compile Include="Areas\CallStaff\Controllers\StaffController.cs" />
+    <Compile Include="Areas\CallStaff\Models\StaffDAL.cs" />
+    <Compile Include="Areas\CallStaff\Models\StaffOject.cs" />
     <Compile Include="Areas\CallUser\CallUserAreaRegistration.cs" />
     <Compile Include="Areas\CallUser\Controllers\UserController.cs" />
     <Compile Include="Areas\CallUser\Models\UserDAL.cs" />
@@ -275,6 +284,7 @@
     <Content Include="Layout\vendor\morrisjs\morris.min.js" />
     <Content Include="Layout\vendor\raphael\raphael.js" />
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
+    <Content Include="Scripts\Areas\CallStaff\NewStaff.js" />
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
     <Content Include="Scripts\Areas\PhoneInside\InfoPhoneInside.js" />
     <Content Include="Scripts\Areas\CallUser\User.js" />
@@ -368,6 +378,8 @@
     <Content Include="Areas\ServiceProvider\Views\web.config" />
     <Content Include="Areas\ServiceProvider\Views\ServiceProvider\Index.cshtml" />
     <Content Include="Areas\ServiceProvider\Views\ServiceProvider\NewServiceCharge.cshtml" />
+    <Content Include="Areas\CallStaff\Views\web.config" />
+    <Content Include="Areas\CallStaff\Views\Staff\Index.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

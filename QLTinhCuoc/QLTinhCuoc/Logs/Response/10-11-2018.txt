@@ -1,0 +1,8513 @@
+11/10/2018 8:01:02 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:01:02 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:01:13 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk="}
+
+11/10/2018 8:01:14 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/Home/Index"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/Home/About"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/Home/Contact"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  }
+]
+"admin"
+
+11/10/2018 8:25:16 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:20 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 8:25:20 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:22 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:22 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:29 AM: /PhoneInside/PhoneInside/Call_InfoIPPhoneInside
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Trần Quan Giàu",
+    "UserName": "giautq",
+    "Email": "",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "FTQ",
+    "DepartmentName": "FTQ",
+    "IPPhone": "18987",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/10/2018 8:25:30 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:32 AM: /PhoneInside/PhoneInside/Call_GetIPPhoneCompany
+[
+  {
+    "StaffName": "Đặng Văn Dũng",
+    "UserName": "Dungdv24",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "4727",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Admin",
+    "UserName": "Admin",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "8533",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "StaffName": "Triệu Thị Thanh",
+    "UserName": "thanhtt",
+    "Email": "dungdv24@fpt.com.vn",
+    "CompanyName": "FPT TELECOM",
+    "BranchName": "ISC",
+    "DepartmentName": "INT",
+    "IPPhone": "5553",
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  }
+]
+""
+
+11/10/2018 8:25:32 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:34 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:37 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:37 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:37 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:43 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:43 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:43 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:44 AM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:44 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:45 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:45 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:45 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:50 AM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:50 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:25:54 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:25:54 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:25:54 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:35:56 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:35:56 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:36:00 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 8:36:01 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:36:11 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 8:43:43 AM: /CallDropDown/DropDown/Call_GetBrach
+[]
+""
+
+11/10/2018 8:43:47 AM: /CallDropDown/DropDown/Call_GetBrach
+[]
+""
+
+11/10/2018 8:44:22 AM: /CallDropDown/DropDown/Call_GetBrach
+[]
+""
+
+11/10/2018 8:44:44 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 8:49:26 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 4,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 8:49:29 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 8:49:32 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 2,
+    "DepartmentName": "FTQ"
+  }
+]
+""
+
+11/10/2018 8:49:34 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 3,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 8:49:44 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 4,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 8:49:47 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 5,
+    "DepartmentName": "Pháp chế"
+  }
+]
+""
+
+11/10/2018 8:49:51 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 6,
+    "DepartmentName": "Pháp chế"
+  }
+]
+""
+
+11/10/2018 8:49:54 AM: /CallDropDown/DropDown/Call_GetDepartment
+[]
+""
+
+11/10/2018 8:57:14 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:57:14 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:57:17 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 8:57:18 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 8:57:21 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 8:57:21 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 8:57:21 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:00:13 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:00:13 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:00:14 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:00:16 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:00:16 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:00:16 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:00:18 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:00:18 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:00:18 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:02:20 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:02:20 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:02:37 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 9:02:37 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:02:40 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:02:40 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:02:40 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:06:11 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:06:11 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:06:11 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:08:42 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:08:42 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:08:42 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:11:19 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:11:20 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:11:20 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:13:15 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:13:16 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:13:16 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:15:21 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:16:30 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:16:52 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:19:07 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:19:11 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:19:11 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:19:14 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:19:17 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:19:19 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 3,
+    "BranchName": "HCM - Ho Chi Minh FTI"
+  },
+  {
+    "BranchID": 4,
+    "BranchName": "HNI - Ha Noi FTI"
+  }
+]
+""
+
+11/10/2018 9:19:22 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:19:28 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:19:28 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:21:46 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:21:48 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:21:48 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:21:48 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:21:50 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:21:51 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:21:53 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 3,
+    "BranchName": "HCM - Ho Chi Minh FTI"
+  },
+  {
+    "BranchID": 4,
+    "BranchName": "HNI - Ha Noi FTI"
+  }
+]
+""
+
+11/10/2018 9:21:55 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:21:56 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:22:34 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 5,
+    "BranchName": "HCM - Ho Chi Minh FTS"
+  },
+  {
+    "BranchID": 6,
+    "BranchName": "HNI - Ha Noi FTS"
+  }
+]
+""
+
+11/10/2018 9:22:50 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 4,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 9:24:08 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:24:10 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:24:10 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:10 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:24:10 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:24:11 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:24:11 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:11 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:24:11 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:24:17 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:24:17 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:17 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:24:17 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:24:19 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:24:19 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:19 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:24:19 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:24:26 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 2,
+    "DepartmentName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:28 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 3,
+    "BranchName": "HCM - Ho Chi Minh FTI"
+  },
+  {
+    "BranchID": 4,
+    "BranchName": "HNI - Ha Noi FTI"
+  }
+]
+""
+
+11/10/2018 9:24:28 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 3,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 9:24:31 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 4,
+    "DepartmentName": "Kế toán"
+  }
+]
+""
+
+11/10/2018 9:24:33 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:24:33 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:26:27 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:26:27 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:26:27 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:26:27 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:26:29 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:26:29 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:26:29 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:26:29 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:05 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:07 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:27:07 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:27:07 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:27:07 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:09 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:27:09 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:27:09 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:27:09 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:42 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:45 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:27:45 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:27:45 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:27:45 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:27:46 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:27:46 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:27:46 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:27:46 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:28:29 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:28:33 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:28:33 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:28:33 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:28:33 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:28:55 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:28:55 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:28:55 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:28:55 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:29:38 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:29:38 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:29:38 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:29:38 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:32:36 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:33:51 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:33:51 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:33:51 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:33:51 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:33:54 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 9:33:55 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:33:58 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:33:58 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:33:58 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:33:58 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:33:58 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:34:20 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:34:20 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:34:20 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:34:20 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:34:20 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:34:21 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:34:21 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:34:21 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:34:21 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:34:21 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:36:34 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:36:36 AM: /CallUser/User/Call_InfoAccount
+{
+  "StaffID": 12,
+  "Status": 1,
+  "StaffName": "Triệu Thị Thanh",
+  "Birthdays": "7/27/1995 9:00:55 PM",
+  "SexID": 2,
+  "Email": "dungdv24@fpt.com.vn",
+  "PhoneNumber": "0984008508",
+  "Address": "142 Nguyễn Thị Thập,Q.7",
+  "Passport": "196632525",
+  "DayIn": "7/1/2017 9:00:55 PM",
+  "RoleName": "Developer",
+  "UserName": "thanhtt",
+  "IPPhone": "5553",
+  "BranchName": "ISC",
+  "DepartmentName": "INT",
+  "CompanyName": "FPT TELECOM"
+}
+{"UserName":"thanhtt"}
+
+11/10/2018 9:36:36 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:36:41 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:36:41 AM: /ServiceProvider/ServiceProvider/Call_GetTypeCall
+[
+  {
+    "TypeCallID": 1,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "TypeCallID": 2,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "TypeCallID": 3,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "TypeCallID": 4,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "TypeCallID": 5,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "TypeCallID": 6,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:36:41 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:36:42 AM: /ServiceProvider/ServiceProvider/Call_GetServiceCharge
+[
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 1,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 90.9,
+    "block2": 1,
+    "price2": 15.15,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 3,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 2,
+    "TypeCallID": 5,
+    "NameServiceProvider": "FPT - FPT TELECOM",
+    "block1": 6,
+    "price1": 109.09,
+    "block2": 1,
+    "price2": 18.18,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 2,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 20.0,
+    "NameTypeCall": "Noi hat ngoai mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 3,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 76.0,
+    "block2": 1,
+    "price2": 12.0,
+    "NameTypeCall": "Lien tinh khac mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 4,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 200.0,
+    "block2": 60,
+    "price2": 200.0,
+    "NameTypeCall": "Noi hat noi mang"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 5,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 6,
+    "price1": 97.0,
+    "block2": 1,
+    "price2": 16.0,
+    "NameTypeCall": "Di dong"
+  },
+  {
+    "ServiceProviderID": 1,
+    "TypeCallID": 6,
+    "NameServiceProvider": "VNPT - VINAPHONE",
+    "block1": 60,
+    "price1": 2727.0,
+    "block2": 60,
+    "price2": 2727.0,
+    "NameTypeCall": "Cước dịch vu"
+  }
+]
+""
+
+11/10/2018 9:36:43 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:36:45 AM: /PhoneInside/PhoneInside/Call_GetServiceProvider
+[
+  {
+    "ServiceProviderID": 1,
+    "NameServiceProvider": "VNPT - VINAPHONE"
+  },
+  {
+    "ServiceProviderID": 2,
+    "NameServiceProvider": "FPT - FPT TELECOM"
+  }
+]
+""
+
+11/10/2018 9:36:45 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:38:57 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:38:57 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:38:57 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:38:57 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:38:57 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:40:03 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:40:03 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:40:03 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:40:03 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:40:03 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 9:40:10 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 9:40:10 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 9:40:10 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 9:40:10 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 9:40:10 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:00:21 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:00:21 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:00:21 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:00:21 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:00:25 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:00:26 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:00:29 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:00:29 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:00:29 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:00:29 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:00:29 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:01:07 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:01:07 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:01:07 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:01:07 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:01:07 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:04:27 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:04:27 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:04:27 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:04:27 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:04:28 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:08:21 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:08:23 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:08:23 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:08:23 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:08:23 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:08:23 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:10:41 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:10:41 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:10:41 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:10:41 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:10:42 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:11:05 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:11:05 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:11:05 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:11:05 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:11:05 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:15:08 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:15:13 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:15:15 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:15:15 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:15:15 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:15:15 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:15:15 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:18:12 AM: /CallStaff/Staff/Call_NewStaff
+{
+  "Code": 0,
+  "Desc": null
+}
+{"DepartmentID":1,"SexID":1,"RoleID":1,"StaffName":"Lê Hồ Dương","Birthdays":"21/11/1994","Address":"Chung cư Sky 9 Quận 9","Status":1,"DayIn":"10/11/2017","Passport":"263323152","UserName":null,"Password":"duonglh7","Email":"duonglh7@fpt.com.vn","PhoneNumber":"0366963261","CreateBy":null}
+
+11/10/2018 10:18:38 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:18:40 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:18:42 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:18:42 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:18:42 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:18:42 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:18:42 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:19:37 AM: /CallStaff/Staff/Call_NewStaff
+{
+  "Code": 0,
+  "Desc": null
+}
+{"DepartmentID":1,"SexID":1,"RoleID":1,"StaffName":"Lê Hồ Dương","Birthdays":"21/11/1994","Address":"Chung cư Sky 9 Quận 9","Status":1,"DayIn":"10/11/2017","Passport":"263323152","UserName":null,"Password":"duonglh7","Email":"duonglh7@fpt.com.vn","PhoneNumber":"0366963261","CreateBy":"thanhtt"}
+
+11/10/2018 10:20:09 AM: /CallStaff/Staff/Call_NewStaff
+{
+  "Code": 0,
+  "Desc": null
+}
+{"DepartmentID":1,"SexID":1,"RoleID":1,"StaffName":"Lê Hồ Dương","Birthdays":"21/11/1994","Address":"Chung cư Sky 9 Quận 9","Status":1,"DayIn":"10/11/2017","Passport":"263323152","UserName":null,"Password":"duonglh7","Email":"duonglh7@fpt.com.vn","PhoneNumber":"0366963261","CreateBy":"thanhtt"}
+
+11/10/2018 10:20:49 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:20:51 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:20:52 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:20:52 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:20:52 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:20:52 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:20:53 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:22:14 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:22:16 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:22:36 AM: /CallStaff/Staff/Call_NewStaff
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"DepartmentID":1,"SexID":1,"RoleID":1,"StaffName":"Lê Hồ Dương","Birthdays":"21/11/1994","Address":"Chung cư Sky 9 Quận 9","Status":1,"DayIn":"10/11/2017","Passport":"263323152","UserName":"duonglh7","Password":"duonglh7","Email":"duonglh7@fpt.com.vn","PhoneNumber":"0366963261","CreateBy":"thanhtt"}
+
+11/10/2018 10:25:24 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:25:24 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:25:24 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:25:24 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:25:29 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:25:29 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:27:35 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "thanhtt"
+}
+{"UserName":"thanhtt","Password":"knrBCQBMvdJIeJeUM8eyxRZR8OwCd08//mpYfBE5RPs="}
+
+11/10/2018 10:27:36 AM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": ""
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Phân quyền"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": ""
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  }
+]
+"thanhtt"
+
+11/10/2018 10:27:38 AM: /CallStaff/Staff/Call_NewStaff
+{
+  "Code": 1,
+  "Desc": "Thêm mới thành công"
+}
+{"DepartmentID":1,"SexID":1,"RoleID":1,"StaffName":"Lê Hồ Dương","Birthdays":"21/11/1994","Address":"Chung cư Sky 9 Quận 9","Status":1,"DayIn":"10/11/2017","Passport":"263323152","UserName":"duonglh7","Password":"duonglh7","Email":"duonglh7@fpt.com.vn","PhoneNumber":"0366963261","CreateBy":"thanhtt"}
+
+11/10/2018 10:27:53 AM: /CallDropDown/DropDown/Call_GetCompany
+[
+  {
+    "CompanyID": 2,
+    "CompanyName": "FPT TELECOM"
+  },
+  {
+    "CompanyID": 4,
+    "CompanyName": "FTS"
+  },
+  {
+    "CompanyID": 5,
+    "CompanyName": "FTI"
+  }
+]
+""
+
+11/10/2018 10:27:53 AM: /CallDropDown/DropDown/Call_GetBrach
+[
+  {
+    "BranchID": 1,
+    "BranchName": "ISC"
+  },
+  {
+    "BranchID": 2,
+    "BranchName": "FTQ"
+  }
+]
+""
+
+11/10/2018 10:27:53 AM: /CallDropDown/DropDown/Call_GetDepartment
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "INT"
+  }
+]
+""
+
+11/10/2018 10:27:53 AM: /CallDropDown/DropDown/Call_GetRole
+[
+  {
+    "RoleID": 1,
+    "RoleName": "Manager"
+  },
+  {
+    "RoleID": 2,
+    "RoleName": "Project Manager"
+  },
+  {
+    "RoleID": 3,
+    "RoleName": "Developer"
+  }
+]
+""
+
+11/10/2018 10:27:58 AM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "duonglh7"
+}
+{"UserName":"duonglh7","Password":"wS2AhbUEqbYpuGG3KQs9YVv6szUSoduEPNUj6xqgVAE="}
+
+11/10/2018 10:27:59 AM: /home/menuroot
+[]
+"duonglh7"
+

@@ -114,6 +114,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\CallFixedDial\Views\Shared\" />
+    <Folder Include="Areas\CallManagement\Views\Shared\" />
     <Folder Include="Areas\CallStaff\Views\Shared\" />
     <Folder Include="Areas\PhoneInside\Views\Shared\" />
     <Folder Include="Areas\ServiceProvider\Views\Shared\" />
@@ -130,6 +131,10 @@
     <Compile Include="Areas\CallFixedDial\Controllers\FixedDialController.cs" />
     <Compile Include="Areas\CallFixedDial\Models\FixedDialDAL.cs" />
     <Compile Include="Areas\CallFixedDial\Models\FixedDialObject.cs" />
+    <Compile Include="Areas\CallManagement\CallManagementAreaRegistration.cs" />
+    <Compile Include="Areas\CallManagement\Controllers\ManagementController.cs" />
+    <Compile Include="Areas\CallManagement\Models\ManagementDAL.cs" />
+    <Compile Include="Areas\CallManagement\Models\ManagementObject.cs" />
     <Compile Include="Areas\CallStaff\CallStaffAreaRegistration.cs" />
     <Compile Include="Areas\CallStaff\Controllers\StaffController.cs" />
     <Compile Include="Areas\CallStaff\Models\StaffDAL.cs" />
@@ -294,6 +299,10 @@
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
     <Content Include="Scripts\Areas\FixedDial\ListFixedDial.js" />
     <Content Include="Scripts\Areas\FixedDial\NewFixedDial.js" />
+    <Content Include="Scripts\Areas\Management\ListManagementService.js" />
+    <Content Include="Scripts\Areas\Management\ListManagemenPhone.js" />
+    <Content Include="Scripts\Areas\Management\ListManagementOut.js" />
+    <Content Include="Scripts\Areas\Management\ListManagementLocal.js" />
     <Content Include="Scripts\Areas\PhoneInside\InfoPhoneInside.js" />
     <Content Include="Scripts\Areas\CallUser\User.js" />
     <Content Include="Scripts\Areas\PhoneInside\NewPhone.js" />
@@ -392,6 +401,11 @@
     <Content Include="Areas\CallFixedDial\Views\web.config" />
     <Content Include="Areas\CallFixedDial\Views\FixedDial\NewFixedDial.cshtml" />
     <Content Include="Areas\CallFixedDial\Views\FixedDial\Index.cshtml" />
+    <Content Include="Areas\CallManagement\Views\web.config" />
+    <Content Include="Areas\CallManagement\Views\Management\ListManagementLocal.cshtml" />
+    <Content Include="Areas\CallManagement\Views\Management\ListManagementOut.cshtml" />
+    <Content Include="Areas\CallManagement\Views\Management\ListManagementPhone.cshtml" />
+    <Content Include="Areas\CallManagement\Views\Management\ListManagementService.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

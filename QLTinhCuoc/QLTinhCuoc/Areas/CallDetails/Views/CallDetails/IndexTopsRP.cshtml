@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "ListStaff";
+    Layout = "~/Views/Shared/_Share.cshtml";
+}
+
+<link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                Chi tiết cước gọi
+            </div>
+            <center>
+                <table style="margin: 10px;" class="">
+                    <tr style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tìm kiếm theo:</strong></td>
+                        <td style="width:5%"></td>
+                        <td style="width: 220px" id="idopsearch"></td>
+
+                    </tr>
+                    <tr id="trtext" style="height: 40px;">
+                        <td class="active"><strong>Top</strong></td>
+                        <td></td>
+                        <td><input id="idtext" style="width: 220px" type="number" value="1" class="k-textbox" /></td>
+
+                    </tr>
+                    <tr style="height: 40px;">
+                        <td class="active" style="width: 30%"><strong>Tìm kiếm theo:</strong></td>
+                        <td style="width: 5%"></td>
+                        <td><input id="iddtfrom" style="width: 220px" onblur="CheckDate(this.value, 'iddtfrom')"></td>
+
+                    </tr>
+                    <tr id="trlocation" style="height: 40px;">
+                        <td class="active" style="width: 30%"><strong>Tỉnh/TP:</strong></td>
+                        <td style="width: 5%"></td>
+                        <td><input id="iddtto" style="width: 220px" onblur="CheckDate(this.value, 'iddtto')"></td>
+                    </tr>
+                    <tr style="height: 40px;">
+                        <td></td>
+                        <td></td>
+                        <td><button style="width: 220px" id="idbtnsearch" type="button" class="btn btn-outline btn-info" style="width:65%"><span class="fa fa-search"></span> Tìm kiếm</button> </td>
+
+                    </tr>
+                </table>
+                <p id="idinfo"></p>
+                <div id="grid"></div>
+            </center>
+
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/Areas/CallDetails/TopRP.js"></script>

@@ -113,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\CallDetails\Views\Shared\" />
     <Folder Include="Areas\CallFixedDial\Views\Shared\" />
     <Folder Include="Areas\CallManagement\Views\Shared\" />
     <Folder Include="Areas\CallStaff\Views\Shared\" />
@@ -123,6 +124,10 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\CallDetails\CallDetailsAreaRegistration.cs" />
+    <Compile Include="Areas\CallDetails\Controllers\CallDetailsController.cs" />
+    <Compile Include="Areas\CallDetails\Models\CallDetailsDAL.cs" />
+    <Compile Include="Areas\CallDetails\Models\CallDetailsObject.cs" />
     <Compile Include="Areas\CallDropDown\CallDropDownAreaRegistration.cs" />
     <Compile Include="Areas\CallDropDown\Controllers\DropDownController.cs" />
     <Compile Include="Areas\CallDropDown\Models\DropDownDAL.cs" />
@@ -294,6 +299,9 @@
     <Content Include="Layout\vendor\morrisjs\morris.min.js" />
     <Content Include="Layout\vendor\raphael\raphael.js" />
     <Content Include="Layout\vendor\raphael\raphael.min.js" />
+    <Content Include="Scripts\Areas\CallDetails\TopRP.js" />
+    <Content Include="Scripts\Areas\CallDetails\DetailsRP.js" />
+    <Content Include="Scripts\Areas\CallDetails\SynthesisRP.js" />
     <Content Include="Scripts\Areas\CallStaff\ListStaff.js" />
     <Content Include="Scripts\Areas\CallStaff\NewStaff.js" />
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
@@ -406,6 +414,11 @@
     <Content Include="Areas\CallManagement\Views\Management\ListManagementOut.cshtml" />
     <Content Include="Areas\CallManagement\Views\Management\ListManagementPhone.cshtml" />
     <Content Include="Areas\CallManagement\Views\Management\ListManagementService.cshtml" />
+    <Content Include="Areas\CallDetails\Views\web.config" />
+    <Content Include="Areas\CallDetails\Views\CallDetails\IndexSynthesisRP.cshtml" />
+    <Content Include="Areas\CallDetails\Views\CallDetails\IndexDetailsRP.cshtml" />
+    <Content Include="Areas\CallDetails\Views\CallDetails\IndexTopsRP.cshtml" />
+    <Content Include="Areas\PhoneInside\Views\PhoneInside\Phonepersonal.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

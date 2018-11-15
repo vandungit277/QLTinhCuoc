@@ -27,6 +27,10 @@ namespace QLTinhCuoc.Areas.PhoneInside.Controllers
         {
             return View();
         }
+        public ActionResult Phonepersonal()
+        {
+            return View();
+        }
         
         /// <summary>
         /// LẤy thông tin nhà cung cấp dịch vụ load dropdown

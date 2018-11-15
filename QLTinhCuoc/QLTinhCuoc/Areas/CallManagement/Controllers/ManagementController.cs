@@ -39,7 +39,7 @@ namespace QLTinhCuoc.Areas.CallManagement.Controllers
         }
         // POST: /CallManagement/Management/Call_ListManagement
         /// <summary>
-        /// Lấy danh sách đầu số
+        /// Lấy danh sách cước gọi
         /// </summary>
         /// <param name="ints"></param>
         /// <returns></returns>

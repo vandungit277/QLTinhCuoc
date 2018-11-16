@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-
+    $("#dvExportGrid").hide();
     var data = [
         {
             "ID": 0,
@@ -177,8 +177,15 @@ function CallListFixedDial(data) {
         dataType: "json",
         data: JSON.stringify(data),
         success: function (resultData) {
-
-            initLoadgird(resultData);
+            var leght = resultData.length;
+            if (leght > 0) {
+                $("#idinfo").html('<p style=" color: green "> Tìm thấy: ' + leght + ' </p>');
+                $("#dvExportGrid").show();
+                initLoadgird(resultData);
+            } else {
+                $("#dvExportGrid").hide();
+                $("#idinfo").html('<p style=" color: red ">Không tìm thấy dữ liệu</p>');
+            }
         },
         error: function (xhr, status, p3, p4) {
             var err = "Error " + " " + status + " " + p3 + " " + p4;
@@ -342,4 +349,105 @@ function showoroff(val) {
         $("#trtext").show();
     }
     
+}
+
+
+//todo khu vực xuất excel
+// Xuất Excel
+$(document).on("click", "#ExportGrid1", function () {
+
+
+    var grid = $("#grid").data("kendoGrid");
+
+    var rows = [{
+        cells: [
+            {
+                value: "STT"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+
+            }
+            , {
+                value: "Tỉnh/TP"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Loại Phone"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Đầu số"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Người tạo"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Mô tả"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+        ]
+    }];
+    //var trs = $("#grid").find('tr');
+
+    var trs = grid.dataSource;
+
+    var filteredDataSource = new kendo.data.DataSource({
+        data: trs.data(),
+        filter: trs.filter()
+    });
+
+    filteredDataSource.read();
+    var data = filteredDataSource.view();
+
+    for (var i = 0; i < data.length; i++) {
+
+        var dataItem = data[i];
+        var stt = i + 1;
+        rows.push({
+            cells: [
+                { value: stt }
+                , { value: dataItem.LocationName }
+                , { value: dataItem.TypeFixedDialName }
+                , { value: dataItem.PostalCode }
+                , { value: dataItem.CreateBy }
+                , { value: dataItem.Description }
+            ]
+        });
+    }
+    excelExport(rows);
+});
+
+function excelExport(rows) {
+    var workbook = new kendo.ooxml.Workbook({
+        sheets: [
+            {
+                columns: [
+                    { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                ],
+                title: "Danh sách đầu số",
+                rows: rows
+            }
+        ]
+    });
+
+    kendo.saveAs({ dataURI: workbook.toDataURL(), fileName: "Danh sach dau so.xlsx" });
+
 }

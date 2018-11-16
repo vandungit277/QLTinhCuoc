@@ -1,4 +1,30 @@
 ﻿$(document).ready(function () {
+    $("#dvExportGrid").hide();
+    $("#trtext").hide();
+    var data2 = [
+        {
+            "ID": 0,
+            "Name": "Tất cả"
+        },
+        {
+            "ID": 1,
+            "Name": " Tên nhân viên"
+        }
+    ];
+
+    $("#idsearchstaff").kendoDropDownList({
+        dataTextField: "Name",
+        dataValueField: "ID",
+        dataSource: data2,
+        change: function (e) {
+            if (this.value() == 0) {
+                $("#trtext").hide();
+                $("#idtext").val("");
+            } else {
+                $("#trtext").show();
+            }
+        }, value: 1
+    });
 
     var data = [
         {
@@ -22,41 +48,19 @@
         change: function (e) {
             if (this.value() == 1) {
                 getCompany(this.value());
-                showoroff(true);
+                showoroff(this.value());
             } else if (this.value() == 2) {
-                showoroff(false);
                 $("#trtext").show();
+                showoroff(this.value());
             }
             else {
-                showoroff(false);
+                showoroff(this.value());
+               
             }
         }
     });
 
-    var data2 = [
-        {
-            "ID": 0,
-            "Name": "Tất cả"
-        },
-        {
-            "ID": 1,
-            "Name": " Tên nhân viên"
-        }
-    ];
-
-    $("#idsearchstaff").kendoDropDownList({
-        dataTextField: "Name",
-        dataValueField: "ID",
-        dataSource: data2,
-        change: function (e) {
-            if (this.value() == 0) {
-                $("#trtext").hide();
-                $("#idtext").val("");
-            } else {
-                $("#trtext").show();
-            }
-        },value:1
-    });
+   
 
     $("#idbtnsearch").click(function () {
         var search = $("#idopsearch").data("kendoDropDownList").dataItem().ID;
@@ -65,17 +69,17 @@
         var branchId = "";
         var departmentId = "";
         if (search == 1) {
-             conpanyId = $("#idcompany").data("kendoDropDownList").dataItem().CompanyID;
-             branchId = $("#idbranch").data("kendoDropDownList").dataItem().BranchID;
-             departmentId = $("#iddepartment").data("kendoDropDownList").dataItem().DepartmentID;
-             if (username == "" && $("#idsearchstaff").data("kendoDropDownList").dataItem().ID == 1) {
-                 alert("Vui lòng nhập UserName");
-                 return;
-             }
+            conpanyId = $("#idcompany").data("kendoDropDownList").dataItem().CompanyID;
+            branchId = $("#idbranch").data("kendoDropDownList").dataItem().BranchID;
+            departmentId = $("#iddepartment").data("kendoDropDownList").dataItem().DepartmentID;
+            if (username == "" && $("#idsearchstaff").data("kendoDropDownList").dataItem().ID == 1) {
+                alert("Vui lòng nhập UserName");
+                return;
+            }
         } else {
-             conpanyId = "";
-             branchId = "";
-             departmentId = "";
+            conpanyId = "";
+            branchId = "";
+            departmentId = "";
         }
         if ($("#idsearchstaff").data("kendoDropDownList").dataItem().ID == 0 && conpanyId != "") {
             username = "";
@@ -194,8 +198,16 @@ function CallGetListStaff(data) {
         dataType: "json",
         data: JSON.stringify(data),
         success: function (resultData) {
+            var leght = resultData.length;
+            if (leght > 0) {
+                $("#dvExportGrid").show();
+                initLoadgird(resultData);
+                $("#idinfo").html('<p style=" color: green "> Tìm thấy: ' + leght + ' </p>');
+            } else {
+                $("#dvExportGrid").hide();
+                $("#idinfo").html('<p style=" color: red ">Không tìm thấy dữ liệu</p>');
+            }
 
-            initLoadgird(resultData);
         },
         error: function (xhr, status, p3, p4) {
             var err = "Error " + " " + status + " " + p3 + " " + p4;
@@ -289,7 +301,7 @@ function initLoadgird(data) {
                     "class": "table-header-cell", "style": "overflow: visible; white-space: normal; text-align:center"
                 },
                 attributes: { "class": "table-header-cell", "style": "overflow: visible; white-space: normal; text-align:center" }
-               
+
 
             },
             {
@@ -459,18 +471,200 @@ function filterable() {
 
 //Hiện thi hoặc ẩn
 function showoroff(val) {
-    if (val == false) {
+    var txt = $("#idsearchstaff").data("kendoDropDownList").dataItem().ID;
+    
+    if (val == 2) {
         $("#trcompany").hide();
         $("#trbranch").hide();
         $("#trdepartment").hide();
         $("#trsearchstaff").hide();
+        $("#trtext").show();
+        
+    } else if (val == 0) {
         $("#trtext").hide();
-    } else {
+        $("#trcompany").hide();
+        $("#trbranch").hide();
+        $("#trdepartment").hide();
+        $("#trsearchstaff").hide();
+       
+    } else if (val == 1) {
         $("#trcompany").show();
         $("#trbranch").show();
         $("#trdepartment").show();
         $("#trsearchstaff").show();
+        if (txt == 0) {
+        $("#trtext").hide();
+    } else {
         $("#trtext").show();
     }
-    
+    }
+
+   
+
+}
+
+
+//todo khu vực xuất excel
+// Xuất Excel
+$(document).on("click", "#ExportGrid1", function () {
+
+
+    var grid = $("#grid").data("kendoGrid");
+
+    var rows = [{
+        cells: [
+            {
+                value: "STT"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+
+            }
+            , {
+                value: "Nhân viên"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Tài khoản"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Email"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Giới tính"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "CMND"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Địa chỉ"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Chức vụ"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Ngày sinh"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }, {
+                value: "Ngày vào công ty"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+          , {
+              value: "Công ty"
+              , color: "#ffffff"
+              , background: "#0077c2"
+              , bold: true
+          }
+            , {
+                value: "Chi nhánh"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Phòng ban"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "IPPHONE"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Nhà cung cấp"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+        ]
+    }];
+    //var trs = $("#grid").find('tr');
+
+    var trs = grid.dataSource;
+
+    var filteredDataSource = new kendo.data.DataSource({
+        data: trs.data(),
+        filter: trs.filter()
+    });
+
+    filteredDataSource.read();
+    var data = filteredDataSource.view();
+
+    for (var i = 0; i < data.length; i++) {
+
+        var dataItem = data[i];
+        var stt = i + 1;
+        rows.push({
+            cells: [
+                { value: stt }
+                , { value: dataItem.StaffName }
+                , { value: dataItem.UserName }
+                , { value: dataItem.Email }
+                , { value: dataItem.SexName }
+                , { value: dataItem.Address }
+                , { value: dataItem.Passport }
+                , { value: dataItem.RoleName }
+                , { value: dataItem.Birthdays }
+                , { value: dataItem.DayIn }
+                , { value: dataItem.CompanyName }
+                , { value: dataItem.BranchName }
+                , { value: dataItem.DepartmentName }
+                , { value: dataItem.IPPhone }
+                , { value: dataItem.NameServiceProvider }
+            ]
+        });
+    }
+    excelExport(rows);
+});
+
+function excelExport(rows) {
+    var workbook = new kendo.ooxml.Workbook({
+        sheets: [
+            {
+                columns: [
+                    { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                ],
+                title: "Danh sách nhân viên",
+                rows: rows
+            }
+        ]
+    });
+
+    kendo.saveAs({ dataURI: workbook.toDataURL(), fileName: "Danh sach nhanh vien.xlsx" });
+
 }

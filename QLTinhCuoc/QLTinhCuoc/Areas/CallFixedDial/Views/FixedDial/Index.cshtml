@@ -2,7 +2,7 @@
     ViewBag.Title = "ListStaff";
     Layout = "~/Views/Shared/_Share.cshtml";
 }
-
+<script src="~/Scripts/KendoUI/Scripts/jszip.min.js"></script>
 <link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
 <div class="row">
     <div class="col-lg-12">
@@ -47,8 +47,12 @@
 
                     </tr>
                 </table>
-                <div id="grid"></div>
+                <p id="idinfo"></p>
             </center>
+            <div id="dvExportGrid">
+                <button id="ExportGrid1" class="k-button" type="button"><span class="glyphicon glyphicon-save"></span> Xuất Excel<span> </span></button>
+                <div id="grid"></div>
+            </div>
 
         </div>
     </div>

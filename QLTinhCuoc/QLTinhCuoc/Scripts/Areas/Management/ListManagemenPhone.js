@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
    
-   
+    $("#dvExportGrid").hide();
     $("#iddtfrom").kendoDatePicker({
         value: new Date(),
         format: "dd/MM/yyyy",
@@ -47,8 +47,10 @@ function ListManagementLocal(data) {
             var leght = resultData.length;
             if (leght > 0) {
                 $("#idinfo").html('<p style=" color: green "> Tìm thấy: ' + leght + ' </p>');
+                $("#dvExportGrid").show();
                 initLoadgird(resultData);
             } else {
+                $("#dvExportGrid").hide();
                 $("#idinfo").html('<p style=" color: red ">Không tìm thấy dữ liệu</p>');
             }
            
@@ -276,4 +278,134 @@ function CheckDate(date, id) {
         $("#" + id + "").focus();
         return;
     }
+}
+
+
+//todo khu vực xuất excel
+// Xuất Excel
+$(document).on("click", "#ExportGrid1", function () {
+
+
+    var grid = $("#grid").data("kendoGrid");
+
+    var rows = [{
+        cells: [
+            {
+                value: "STT"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+
+            }
+            , {
+                value: "Tài khoản"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Từ"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Đến"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Tổng thời gian gọi"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Tổng tiền"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Từ Tỉnh/TP"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }
+            , {
+                value: "Đến Tỉnh/TP"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }, {
+                value: "Loại Phone"
+                , color: "#ffffff"
+                , background: "#0077c2"
+                , bold: true
+            }/*
+          , {
+              value: "Trạng thái thanh toán"
+              , color: "#ffffff"
+              , background: "#0077c2"
+              , bold: true
+          }*/
+        ]
+    }];
+    //var trs = $("#grid").find('tr');
+
+    var trs = grid.dataSource;
+
+    var filteredDataSource = new kendo.data.DataSource({
+        data: trs.data(),
+        filter: trs.filter()
+    });
+
+    filteredDataSource.read();
+    var data = filteredDataSource.view();
+
+    for (var i = 0; i < data.length; i++) {
+
+        var dataItem = data[i];
+        var stt = i + 1;
+        rows.push({
+            cells: [
+                { value: stt }
+                , { value: dataItem.UserName }
+                , { value: dataItem.From }
+                , { value: dataItem.To }
+                , { value: dataItem.TotalTimeCalled }
+                , { value: dataItem.Total }
+                , { value: dataItem.LocationNameFrom }
+                , { value: dataItem.LocationNameTo }
+                , { value: dataItem.TypeFixedDialName }
+            ]
+        });
+    }
+    excelExport(rows);
+});
+
+function excelExport(rows) {
+    var workbook = new kendo.ooxml.Workbook({
+        sheets: [
+            {
+                columns: [
+                    { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                    , { autoWidth: true }
+                ],
+                title: "Danh sách cước gọi di động",
+                rows: rows
+            }
+        ]
+    });
+
+    kendo.saveAs({ dataURI: workbook.toDataURL(), fileName: "Danh sach cuoc goi di dong.xlsx" });
+
 }

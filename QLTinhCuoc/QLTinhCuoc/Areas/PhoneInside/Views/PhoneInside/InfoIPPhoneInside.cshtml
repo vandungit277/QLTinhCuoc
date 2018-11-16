@@ -2,6 +2,7 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Share.cshtml";
 }
+<script src="~/Scripts/KendoUI/Scripts/jszip.min.js"></script>
 <link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
 <div class="container" style="width: 100%">
     <div class="row">
@@ -11,7 +12,8 @@
                     Thông tin số nội bộ
                 </div>
                 <div class="panel-body">
-                    <div class="row">
+                    <div id="dvExportGrid">
+                        <button id="ExportGrid1" class="k-button" type="button"><span class="glyphicon glyphicon-save"></span> Xuất Excel<span> </span></button>
                         <div id="grid"></div>
                     </div>
                     <!-- /.row (nested) -->

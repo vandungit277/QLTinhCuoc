@@ -44,4 +44,16 @@ namespace QLTinhCuoc.Areas.CallDropDown.Models
 
         public string LocationName { get; set; }
     }
+    public class GetMenuRoot
+    {
+        public int MenuRootID { get; set; }
+
+        public string MenuRootName { get; set; }
+    }
+    public class GetGroups
+    {
+        public int GroupsID { get; set; }
+
+        public string GroupsName { get; set; }
+    }
 }

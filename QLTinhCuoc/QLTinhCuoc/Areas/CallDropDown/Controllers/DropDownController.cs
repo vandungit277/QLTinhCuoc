@@ -137,7 +137,7 @@ namespace QLTinhCuoc.Areas.CallDropDown.Controllers
         }
         // GET: /CallDropDown/DropDown/Call_GetLocation
         /// <summary>
-        /// Lấy thông tin loại đầu số dropdown
+        /// Lấy thông tin loại Tỉnh/TP
         /// </summary>
         /// <returns></returns>
         public JsonResult Call_GetLocation()
@@ -146,6 +146,56 @@ namespace QLTinhCuoc.Areas.CallDropDown.Controllers
             try
             {
                 output = DropDownDAL.GetLocation();
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(""));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+
+        // GET: /CallDropDown/DropDown/Call_GetMenuRoot
+        /// <summary>
+        /// Lấy thông tin Menu chính dropdown
+        /// </summary>
+        /// <returns></returns>
+        public JsonResult Call_GetMenuRoot()
+        {
+            var output = new List<GetMenuRoot>();
+            try
+            {
+                output = DropDownDAL.GetMenuRoot();
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(""));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+
+        // GET: /CallDropDown/DropDown/Call_GetGroups
+        /// <summary>
+        /// Lấy danh sách Groups dropdown
+        /// </summary>
+        /// <returns></returns>
+        public JsonResult Call_GetGroups()
+        {
+            var output = new List<GetGroups>();
+            try
+            {
+                output = DropDownDAL.GetGroups();
             }
             catch (Exception ex)
             {

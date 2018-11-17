@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "ListStaff";
+    Layout = "~/Views/Shared/_Share.cshtml";
+}
+<link href="~/Content/KendoUI/Gird.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                Cấp/cắt quyền Menu theo User
+            </div>
+            <center>
+                <table style="margin: 10px;" class="">
+                    <tr style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tìm kiếm theo:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idopsearch" style="width: 220px"></td>
+                    </tr>
+                    <tr id="trmenuroot" style="height: 40px;">
+                        <td class="active" style="width:30%"><strong>Tỉnh/TP:</strong></td>
+                        <td style="width:5%"></td>
+                        <td id="idMenuRoot" style="width: 220px"></td>
+                    </tr>
+                    <tr id="truser" style="height: 40px;">
+                        <td class="active"><strong>User:</strong></td>
+                        <td></td>
+                        <td><input id="iduser" style="width: 220px" class="k-textbox" /></td>
+                    </tr>
+                    <tr style="height: 40px;">
+                        <td></td>
+                        <td></td>
+                        <td><button id="idbtnsearch" type="button" class="btn btn-outline btn-info" style="width:65%"><span class="fa fa-search"></span> Tìm kiếm</button> </td>
+                    </tr>
+                </table>
+                <p id="idinfo"></p>
+                <div id="grid"></div>
+            </center>
+
+        </div>
+    </div>
+    <span id="notification"></span>
+</div>
+<script src="~/Scripts/Areas/CallMenu/MenuUser.js"></script>

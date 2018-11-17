@@ -116,6 +116,7 @@
     <Folder Include="Areas\CallDetails\Views\Shared\" />
     <Folder Include="Areas\CallFixedDial\Views\Shared\" />
     <Folder Include="Areas\CallManagement\Views\Shared\" />
+    <Folder Include="Areas\CallMenu\Views\Shared\" />
     <Folder Include="Areas\CallStaff\Views\Shared\" />
     <Folder Include="Areas\PhoneInside\Views\Shared\" />
     <Folder Include="Areas\ServiceProvider\Views\Shared\" />
@@ -140,6 +141,10 @@
     <Compile Include="Areas\CallManagement\Controllers\ManagementController.cs" />
     <Compile Include="Areas\CallManagement\Models\ManagementDAL.cs" />
     <Compile Include="Areas\CallManagement\Models\ManagementObject.cs" />
+    <Compile Include="Areas\CallMenu\CallMenuAreaRegistration.cs" />
+    <Compile Include="Areas\CallMenu\Controllers\MenuController.cs" />
+    <Compile Include="Areas\CallMenu\Models\MenuDAL.cs" />
+    <Compile Include="Areas\CallMenu\Models\MenuObject.cs" />
     <Compile Include="Areas\CallStaff\CallStaffAreaRegistration.cs" />
     <Compile Include="Areas\CallStaff\Controllers\StaffController.cs" />
     <Compile Include="Areas\CallStaff\Models\StaffDAL.cs" />
@@ -302,6 +307,8 @@
     <Content Include="Scripts\Areas\CallDetails\TopRP.js" />
     <Content Include="Scripts\Areas\CallDetails\DetailsRP.js" />
     <Content Include="Scripts\Areas\CallDetails\SynthesisRP.js" />
+    <Content Include="Scripts\Areas\CallMenu\MenuGroup.js" />
+    <Content Include="Scripts\Areas\CallMenu\MenuUser.js" />
     <Content Include="Scripts\Areas\CallStaff\ListStaff.js" />
     <Content Include="Scripts\Areas\CallStaff\NewStaff.js" />
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
@@ -419,6 +426,9 @@
     <Content Include="Areas\CallDetails\Views\CallDetails\IndexDetailsRP.cshtml" />
     <Content Include="Areas\CallDetails\Views\CallDetails\IndexTopsRP.cshtml" />
     <Content Include="Areas\PhoneInside\Views\PhoneInside\Phonepersonal.cshtml" />
+    <Content Include="Areas\CallMenu\Views\web.config" />
+    <Content Include="Areas\CallMenu\Views\Menu\MenuUser.cshtml" />
+    <Content Include="Areas\CallMenu\Views\Menu\MenuGroup.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />

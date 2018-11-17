@@ -196,5 +196,64 @@ namespace QLTinhCuoc.Areas.CallDropDown.Models
 
             return outInfo;
         }
+
+        public static List<GetMenuRoot> GetMenuRoot()
+        {
+            var outInfo = new List<GetMenuRoot>();
+
+            try
+            {
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetMenuRootDDL", null).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                                     select new GetMenuRoot
+                        {
+                            MenuRootName = SqlHelper.CheckStringNull(dtr["MenuRootName"]),
+                            MenuRootID = SqlHelper.CheckIntNull(dtr["MenuRootID"]),
+
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
+        public static List<GetGroups> GetGroups()
+        {
+            var outInfo = new List<GetGroups>();
+
+            try
+            {
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetGroups", null).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                    select new GetGroups
+                        {
+                            GroupsID = SqlHelper.CheckIntNull(dtr["GroupsID"]),
+                            GroupsName = SqlHelper.CheckStringNull(dtr["GroupsName"]),
+
+                        });
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
     }
 }

@@ -22862,3 +22862,630 @@
 ]
 "admin"
 
+11/17/2018 10:14:17 PM: /Login/CallLogin
+{
+  "Code": 1,
+  "Desc": "Đăng nhập thành công",
+  "UserName": "admin"
+}
+{"UserName":"admin","Password":"JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk="}
+
+11/17/2018 10:14:18 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementLocal"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementOut"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementPhone"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementService"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/Phonepersonal"
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Quản lý nhà cung cấp"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexSynthesisRP"
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexDetailsRP"
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexTopsRP"
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/ListStaff"
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 16,
+        "MenuName": "Thêm mới đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/NewFixedDial"
+      },
+      {
+        "MenuID": 17,
+        "MenuName": "Danh sách đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/Index"
+      }
+    ],
+    "MenuRootID": 6,
+    "MenuRootName": "Quản lý đầu số"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 18,
+        "MenuName": "Cấp/cắt quyền theo User",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuUser"
+      },
+      {
+        "MenuID": 19,
+        "MenuName": "Cấp/cắt quyền theo Groups",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuGroup"
+      }
+    ],
+    "MenuRootID": 7,
+    "MenuRootName": "Quản lý Menu"
+  }
+]
+"admin"
+
+11/17/2018 10:14:20 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementLocal"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementOut"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementPhone"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementService"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/Phonepersonal"
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Quản lý nhà cung cấp"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexSynthesisRP"
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexDetailsRP"
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexTopsRP"
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/ListStaff"
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 16,
+        "MenuName": "Thêm mới đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/NewFixedDial"
+      },
+      {
+        "MenuID": 17,
+        "MenuName": "Danh sách đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/Index"
+      }
+    ],
+    "MenuRootID": 6,
+    "MenuRootName": "Quản lý đầu số"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 18,
+        "MenuName": "Cấp/cắt quyền theo User",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuUser"
+      },
+      {
+        "MenuID": 19,
+        "MenuName": "Cấp/cắt quyền theo Groups",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuGroup"
+      }
+    ],
+    "MenuRootID": 7,
+    "MenuRootName": "Quản lý Menu"
+  }
+]
+"admin"
+
+11/17/2018 10:14:21 PM: /CallDropDown/DropDown/Call_GetGroups
+[
+  {
+    "GroupsID": 1,
+    "GroupsName": "Admin"
+  },
+  {
+    "GroupsID": 2,
+    "GroupsName": "PM"
+  },
+  {
+    "GroupsID": 3,
+    "GroupsName": "Manager"
+  }
+]
+""
+
+11/17/2018 10:14:21 PM: /home/menuroot
+[
+  {
+    "Data": [
+      {
+        "MenuID": 1,
+        "MenuName": "Cước cuộc gọi Nội hạt",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementLocal"
+      },
+      {
+        "MenuID": 2,
+        "MenuName": "Cước cuộc gọi Liên tỉnh",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementOut"
+      },
+      {
+        "MenuID": 3,
+        "MenuName": "Cước cuộc gọi Di động",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementPhone"
+      },
+      {
+        "MenuID": 4,
+        "MenuName": "Cước cuộc gọi Dịch vụ",
+        "Description": "",
+        "URL": "/CallManagement/Management/ListManagementService"
+      }
+    ],
+    "MenuRootID": 1,
+    "MenuRootName": "Quản lý cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 8,
+        "MenuName": "Thông tin số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/InfoIPPhoneInside"
+      },
+      {
+        "MenuID": 9,
+        "MenuName": "Công ty thành viên",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/PhoneCompany"
+      },
+      {
+        "MenuID": 10,
+        "MenuName": "Theo cá nhân",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside/Phonepersonal"
+      },
+      {
+        "MenuID": 11,
+        "MenuName": "Thêm mới số nội bộ",
+        "Description": "",
+        "URL": "/PhoneInside/PhoneInside"
+      }
+    ],
+    "MenuRootID": 2,
+    "MenuRootName": "Quản lý số nội bộ"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 12,
+        "MenuName": "Thêm mới nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/NewServiceCharge"
+      },
+      {
+        "MenuID": 13,
+        "MenuName": "Danh sách nhà cung cấp",
+        "Description": "",
+        "URL": "/ServiceProvider/ServiceProvider/Index"
+      }
+    ],
+    "MenuRootID": 3,
+    "MenuRootName": "Quản lý nhà cung cấp"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 5,
+        "MenuName": "Báo cáo tổng hợp",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexSynthesisRP"
+      },
+      {
+        "MenuID": 6,
+        "MenuName": "Chi tiết cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexDetailsRP"
+      },
+      {
+        "MenuID": 7,
+        "MenuName": "Top cuộc gọi",
+        "Description": "",
+        "URL": "/CallDetails/CallDetails/IndexTopsRP"
+      }
+    ],
+    "MenuRootID": 4,
+    "MenuRootName": "Báo cáo cước cuộc gọi"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 14,
+        "MenuName": "Thêm mới nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/Index"
+      },
+      {
+        "MenuID": 15,
+        "MenuName": "Danh sách nhân viên",
+        "Description": "",
+        "URL": "/CallStaff/Staff/ListStaff"
+      }
+    ],
+    "MenuRootID": 5,
+    "MenuRootName": "Quản lý nhân viên"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 16,
+        "MenuName": "Thêm mới đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/NewFixedDial"
+      },
+      {
+        "MenuID": 17,
+        "MenuName": "Danh sách đầu số",
+        "Description": "",
+        "URL": "/CallFixedDial/FixedDial/Index"
+      }
+    ],
+    "MenuRootID": 6,
+    "MenuRootName": "Quản lý đầu số"
+  },
+  {
+    "Data": [
+      {
+        "MenuID": 18,
+        "MenuName": "Cấp/cắt quyền theo User",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuUser"
+      },
+      {
+        "MenuID": 19,
+        "MenuName": "Cấp/cắt quyền theo Groups",
+        "Description": "",
+        "URL": "/CallMenu/Menu/MenuGroup"
+      }
+    ],
+    "MenuRootID": 7,
+    "MenuRootName": "Quản lý Menu"
+  }
+]
+"admin"
+
+11/17/2018 10:14:22 PM: /CallMenu/Menu/Call_ListGetMenuGroup
+[
+  {
+    "MenuID": 1,
+    "MenuName": "Cước cuộc gọi Nội hạt",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 2,
+    "MenuName": "Cước cuộc gọi Liên tỉnh",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 3,
+    "MenuName": "Cước cuộc gọi Di động",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 4,
+    "MenuName": "Cước cuộc gọi Dịch vụ",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 5,
+    "MenuName": "Báo cáo tổng hợp",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 6,
+    "MenuName": "Chi tiết cuộc gọi",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 7,
+    "MenuName": "Top cuộc gọi",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 8,
+    "MenuName": "Thông tin số nội bộ",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 9,
+    "MenuName": "Công ty thành viên",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 10,
+    "MenuName": "Theo cá nhân",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 11,
+    "MenuName": "Thêm mới số nội bộ",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 12,
+    "MenuName": "Thêm mới nhà cung cấp",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 13,
+    "MenuName": "Danh sách nhà cung cấp",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 14,
+    "MenuName": "Thêm mới nhân viên",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 15,
+    "MenuName": "Danh sách nhân viên",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 16,
+    "MenuName": "Thêm mới đầu số",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 17,
+    "MenuName": "Danh sách đầu số",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 18,
+    "MenuName": "Cấp/cắt quyền theo User",
+    "Status": 1,
+    "GroupsID": 1
+  },
+  {
+    "MenuID": 19,
+    "MenuName": "Cấp/cắt quyền theo Groups",
+    "Status": 1,
+    "GroupsID": 1
+  }
+]
+{"Search":0,"MenuRootID":0,"GroupsID":1}
+

@@ -122,6 +122,19 @@ VALUES  ( N'Cấp/cắt quyền Menu theo Groups', -- MenuName - nvarchar(250)
           N'', -- Description - nvarchar(500)
           7 -- MenuRootID - int
           );
+
+INSERT  dbo.Menu
+        ( MenuName, Description, MenuRootID )
+VALUES  ( N'Thêm mới Group', -- MenuName - nvarchar(250)
+          N'', -- Description - nvarchar(500)
+          8 -- MenuRootID - int
+          );
+INSERT  dbo.Menu
+        ( MenuName, Description, MenuRootID )
+VALUES  ( N'Danh sách Groups', -- MenuName - nvarchar(250)
+          N'', -- Description - nvarchar(500)
+          8 -- MenuRootID - int
+          );
 --SELECT * FROM dbo.MenuRoot
 /*
 UPDATE dbo.Menu SET MenuName=N'Cấp/cắt quyền theo User' WHERE MenuID=18

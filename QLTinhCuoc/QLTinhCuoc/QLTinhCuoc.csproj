@@ -137,6 +137,10 @@
     <Compile Include="Areas\CallFixedDial\Controllers\FixedDialController.cs" />
     <Compile Include="Areas\CallFixedDial\Models\FixedDialDAL.cs" />
     <Compile Include="Areas\CallFixedDial\Models\FixedDialObject.cs" />
+    <Compile Include="Areas\CallGroup\CallGroupAreaRegistration.cs" />
+    <Compile Include="Areas\CallGroup\Controllers\GroupController.cs" />
+    <Compile Include="Areas\CallGroup\Models\GroupDAL.cs" />
+    <Compile Include="Areas\CallGroup\Models\GroupObject.cs" />
     <Compile Include="Areas\CallManagement\CallManagementAreaRegistration.cs" />
     <Compile Include="Areas\CallManagement\Controllers\ManagementController.cs" />
     <Compile Include="Areas\CallManagement\Models\ManagementDAL.cs" />
@@ -314,6 +318,8 @@
     <Content Include="Scripts\Areas\CallUser\ChangePassword.js" />
     <Content Include="Scripts\Areas\FixedDial\ListFixedDial.js" />
     <Content Include="Scripts\Areas\FixedDial\NewFixedDial.js" />
+    <Content Include="Scripts\Areas\Group\ListGroup.js" />
+    <Content Include="Scripts\Areas\Group\NewGroup.js" />
     <Content Include="Scripts\Areas\Management\ListManagementService.js" />
     <Content Include="Scripts\Areas\Management\ListManagemenPhone.js" />
     <Content Include="Scripts\Areas\Management\ListManagementOut.js" />
@@ -429,6 +435,11 @@
     <Content Include="Areas\CallMenu\Views\web.config" />
     <Content Include="Areas\CallMenu\Views\Menu\MenuUser.cshtml" />
     <Content Include="Areas\CallMenu\Views\Menu\MenuGroup.cshtml" />
+    <Content Include="Areas\CallGroup\Views\web.config" />
+    <Content Include="Areas\CallGroup\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\CallGroup\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\CallGroup\Views\Group\NewGroup.cshtml" />
+    <Content Include="Areas\CallGroup\Views\Group\ListGroup.cshtml" />
     <None Include="Properties\PublishProfiles\public.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Home\HomeIndex.js" />
@@ -488,7 +499,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50456</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

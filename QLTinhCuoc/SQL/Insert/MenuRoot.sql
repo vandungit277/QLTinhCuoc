@@ -76,3 +76,14 @@ VALUES  ( N'Quản lý Menu' , -- MenuRootName - nvarchar(250)
           1 , -- Status - int
           N'Quản lý Menu'  -- Description - nvarchar(500)
         );
+INSERT INTO dbo.MenuRoot
+        ( MenuRootName ,
+          CreateDate ,
+          Status ,
+          Description
+        )
+VALUES  ( N'Quản lý Groups' , -- MenuRootName - nvarchar(250)
+          GETDATE() , -- CreateDate - datetime
+          1 , -- Status - int
+          N'Quản lý Groups'  -- Description - nvarchar(500)
+        );

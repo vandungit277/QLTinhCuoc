@@ -89,12 +89,12 @@ AS
         IF @@ROWCOUNT > 0
             BEGIN
                 SET @Code = 1;
-                SET @Desc = N'Thêm mới thành công';
+                SET @Desc = N'Thêm mới '+ @UserName+N' thành công';
             END
         ELSE
             BEGIN
                 SET @Code = 0;
-                SET @Desc = N'Thêm mới thất bại';
+                SET @Desc = N'Thêm mới '+ @UserName+N' thất bại';
             END
         result:
         BEGIN

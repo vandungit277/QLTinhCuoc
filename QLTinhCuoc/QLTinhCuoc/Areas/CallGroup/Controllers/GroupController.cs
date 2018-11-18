@@ -4,38 +4,41 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Newtonsoft.Json;
-using QLTinhCuoc.Areas.CallStaff.Models;
+using QLTinhCuoc.Areas.CallGroup.Models;
 using QLTinhCuoc.Models;
 using QL_Model;
 
-namespace QLTinhCuoc.Areas.CallStaff.Controllers
+namespace QLTinhCuoc.Areas.CallGroup.Controllers
 {
-    public class StaffController : Controller
+    public class GroupController : Controller
     {
         //
-        // GET: /CallStaff/Staff/
-        public ActionResult Index()
+        // GET: /CallGroup/Group/NewGroup
+        public ActionResult NewGroup()
         {
             return View();
         }
-        public ActionResult ListStaff()
+
+        //
+        // GET: /CallGroup/Group/ListGroup
+        public ActionResult ListGroup()
         {
             return View();
         }
-        // POST: /CallStaff/Staff/Call_NewStaff
+        // POST: /CallGroup/Group/Call_NewGroup
         /// <summary>
-        /// Thêm mới nhân viên
+        /// Thêm mới Group
         /// </summary>
-        /// <param name="intNewStaff"></param>
+        /// <param name="intNewGroup"></param>
         /// <returns></returns>
-        public JsonResult Call_NewStaff(IntNewStaff intNewStaff)
+        public JsonResult Call_NewGroup(IntNewGroup intNewGroup)
         {
             var output = new Result();
             try
             {
                 var session = (LoginOut)Session["SessionLogin"];
-                intNewStaff.CreateBy = session.UserName;
-                output = StaffDAL.NewStaff(intNewStaff);
+                intNewGroup.CreateBy = session.UserName;
+                output = GroupDAL.NewGroup(intNewGroup);
             }
             catch (Exception ex)
             {
@@ -44,23 +47,22 @@ namespace QLTinhCuoc.Areas.CallStaff.Controllers
             finally
             {
                 WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
-                                          + "\r\n" + JsonConvert.SerializeObject(intNewStaff));
+                                          + "\r\n" + JsonConvert.SerializeObject(intNewGroup));
             }
 
             return Json(output, JsonRequestBehavior.AllowGet);
         }
         /// <summary>
-        /// Danh sách nhân viên
+        /// Danh sách Group
         /// </summary>
-        /// <param name="ints"></param>
         /// <returns></returns>
-        // POST: /CallStaff/Staff/Call_GetListStaff
-        public JsonResult Call_GetListStaff(IntListStaff ints)
+        // POST: /CallGroup/Group/Call_GetListGroup
+        public JsonResult Call_GetListGroup()
         {
-            var output = new List<OutListStaff>();
+            var output = new List<OutListGroup>();
             try
             {
-                output = StaffDAL.GetListStaff(ints);
+                output = GroupDAL.GetListGroup();
             }
             catch (Exception ex)
             {
@@ -69,7 +71,7 @@ namespace QLTinhCuoc.Areas.CallStaff.Controllers
             finally
             {
                 WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
-                                          + "\r\n" + JsonConvert.SerializeObject(ints));
+                                          + "\r\n" + JsonConvert.SerializeObject(""));
             }
 
             return Json(output, JsonRequestBehavior.AllowGet);

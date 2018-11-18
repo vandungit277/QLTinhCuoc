@@ -3,3 +3,63 @@ Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
    at System.Data.DataTableCollection.get_Item(Int32 index)
    at QLTinhCuoc.Areas.CallMenu.Models.MenuDAL.GetListGetMenuUser(IntMenuUser ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallMenu\Models\MenuDAL.cs:line 25
 
+11/18/2018 10:02:04 AM: /CallMenu/Menu/Call_ListGetMenuUser
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallMenu.Models.MenuDAL.GetListGetMenuUser(IntMenuUser ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallMenu\Models\MenuDAL.cs:line 25
+
+11/18/2018 10:19:18 AM: /CallMenu/Menu/Call_ListGetMenuUser
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallMenu.Models.MenuDAL.GetListGetMenuUser(IntMenuUser ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallMenu\Models\MenuDAL.cs:line 25
+
+11/18/2018 10:30:39 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:30:41 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:30:43 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:31:44 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:33:16 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:35:28 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:37:28 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:51:16 AM: /CallGroup/Group/Call_GetGroupStaffDetail
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallGroup.Models.GroupDAL.GetGroupStaffDetail(IntGetGroupStaffDetail ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallGroup\Models\GroupDAL.cs:line 96
+
+11/18/2018 10:55:37 AM: /CallMenu/Menu/Call_ListGetMenuUser
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallMenu.Models.MenuDAL.GetListGetMenuUser(IntMenuUser ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallMenu\Models\MenuDAL.cs:line 25
+
+11/18/2018 11:29:46 AM: /CallMenu/Menu/Call_ListGetMenuUser
+Cannot find table 0. ; System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at QLTinhCuoc.Areas.CallMenu.Models.MenuDAL.GetListGetMenuUser(IntMenuUser ints) in c:\Users\Administrator\Documents\GitHub\QLTinhCuoc\QLTinhCuoc\QLTinhCuoc\Areas\CallMenu\Models\MenuDAL.cs:line 25
+

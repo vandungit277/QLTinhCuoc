@@ -25,6 +25,12 @@ namespace QLTinhCuoc.Areas.CallGroup.Controllers
         {
             return View();
         }
+        //
+        // GET: /CallGroup/Group/GroupStaffDetail
+        public ActionResult GroupStaffDetail()
+        {
+            return View();
+        }
         // POST: /CallGroup/Group/Call_NewGroup
         /// <summary>
         /// Thêm mới Group
@@ -72,6 +78,60 @@ namespace QLTinhCuoc.Areas.CallGroup.Controllers
             {
                 WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
                                           + "\r\n" + JsonConvert.SerializeObject(""));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+
+        // POST: /CallGroup/Group/Call_GetGroupStaffDetail
+        /// <summary>
+        /// Lấy danh sách Group User
+        /// </summary>
+        /// <param name="ints"></param>
+        /// <returns></returns>
+        public JsonResult Call_GetGroupStaffDetail(IntGetGroupStaffDetail ints)
+        {
+            var output = new List<OutGetGroupStaffDetail>();
+            try
+            {
+                output = GroupDAL.GetGroupStaffDetail(ints);
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(ints));
+            }
+
+            return Json(output, JsonRequestBehavior.AllowGet);
+        }
+
+        // POST: /CallGroup/Group/Call_IUGroupStaffDetail
+        /// <summary>
+        /// Cập nhật User với Group
+        /// </summary>
+        /// <param name="IUMenuUser"></param>
+        /// <returns></returns>
+        public JsonResult Call_IUGroupStaffDetail(IUGroupStaffDetail IUMenuUser)
+        {
+            var output = new Result();
+            try
+            {
+                var session = (LoginOut)Session["SessionLogin"];
+                IUMenuUser.UpdateBy = session.UserName;
+                output = GroupDAL.IUGroupStaffDetail(IUMenuUser);
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+            finally
+            {
+                WriteLog.writeLogResponse(JsonConvert.SerializeObject(output, Formatting.Indented)
+                                          + "\r\n" + JsonConvert.SerializeObject(IUMenuUser));
             }
 
             return Json(output, JsonRequestBehavior.AllowGet);

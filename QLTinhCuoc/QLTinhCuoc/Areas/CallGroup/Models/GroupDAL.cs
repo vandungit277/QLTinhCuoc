@@ -80,5 +80,79 @@ namespace QLTinhCuoc.Areas.CallGroup.Models
 
             return outInfo;
         }
+
+        public static List<OutGetGroupStaffDetail> GetGroupStaffDetail(IntGetGroupStaffDetail ints)
+        {
+            var outInfo = new List<OutGetGroupStaffDetail>();
+
+            try
+            {
+                SqlParameter[] pars =
+                {   new SqlParameter("@Search",ints.Search) ,          
+                    new SqlParameter("@UserName",ints.UserName) ,
+                    new SqlParameter("@GroupsID",ints.GroupsID)                
+                };
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConRead(), CommandType.StoredProcedure, "dbo.Call_GetGroupStaffDetail", pars).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    outInfo.AddRange(from DataRow dtr in dt.Rows
+                    select new OutGetGroupStaffDetail
+                        {
+                            GroupsID = SqlHelper.CheckIntNull(dtr["GroupsID"]),
+                            StaffID = SqlHelper.CheckIntNull(dtr["StaffID"]),
+                            Status = SqlHelper.CheckIntNull(dtr["Status"]),
+                            GroupsName = SqlHelper.CheckStringNull(dtr["GroupsName"])
+                        });
+                }
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outInfo;
+        }
+        public static Result IUGroupStaffDetail(IUGroupStaffDetail inp)
+        {
+            var outp = new Result();
+
+            try
+            {
+                SqlParameter[] pars =
+                {
+                    new SqlParameter("@GroupsID",inp.GroupsID),
+                    new SqlParameter("@Status",inp.Status),
+                    new SqlParameter("@UpdateBy",inp.UpdateBy),
+                    new SqlParameter("@StaffID",inp.StaffID),
+                    new SqlParameter("@Description",inp.Description)
+                    
+                };
+
+                var dt = SqlHelper.ExecuteDataset(ConnectSql.ConWrite(), CommandType.StoredProcedure, "dbo.Call_IUGroupStaffDetail", pars).Tables[0];
+
+                if (dt.Rows.Count > 0)
+                {
+                    foreach (DataRow dtr in dt.Rows)
+                    {
+                        outp.Code = SqlHelper.CheckIntNull(dtr["Code"]);
+                        outp.Desc = SqlHelper.CheckStringNull(dtr["Desc"]);
+
+                    }
+
+
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                WriteLog.writeLogError(ex);
+            }
+
+            return outp;
+        }
     }
 }
